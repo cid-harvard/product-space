@@ -12,6 +12,10 @@
   },
   "author": "Huy Nguyen <huy@huy-nguyen.com> (https://www.huy-nguyen.com/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cid-harvard/product-space.git"
+  },
   "devDependencies": {
     "@cid-harvard/eslint-config": "0.1.2",
     "@cid-harvard/stylelint-config": "0.1.0",
