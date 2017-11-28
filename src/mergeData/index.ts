@@ -63,14 +63,22 @@ const process = (input: IInput): IMergeStatus => {
         reason: [MergeErrorCode.NumValuesPerNodeNotMatchWithData],
       };
     } else {
-      const merged = merge(
-        layoutData.data, metadata.data, mainData.data,
-        width, height, selectedNodeSizing, nodeSizingLabels, numValuesPerNode,
-      );
-      result = {
-        status: MergeStatus.Success,
-        value: merged,
-      };
+      try {
+        const merged = merge(
+          layoutData.data, metadata.data, mainData.data,
+          width, height, selectedNodeSizing, nodeSizingLabels, numValuesPerNode,
+        );
+        result = {
+          status: MergeStatus.Success,
+          value: merged,
+        };
+      } catch (e) {
+        console.warn(e);
+        result = {
+          status: MergeStatus.Fail,
+          reason: [MergeErrorCode.ProcessingError],
+        };
+      }
     }
   }
   return result;

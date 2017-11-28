@@ -44,6 +44,8 @@ export const enum MergeErrorCode {
   // values per node found in the data e.g. user requested world trade and
   // country trade but in the data, only world trade is provided:
   NumValuesPerNodeNotMatchWithData = 'NumValuesPerNodeNotMatch',
+  // Error happen during the merge:
+  ProcessingError = 'ProcessingError',
 }
 
 export type IMergeStatus = {
