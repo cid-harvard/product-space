@@ -1,6 +1,6 @@
 #! /usr/bin/env node
-require('babel-register');
 process.chdir(__dirname);
+require('babel-register');
 const webpack = require('webpack');
 const getConfig = require('./dev.webpack.babel').default;
 const {
