@@ -53,7 +53,7 @@ export default function() {
         {
           test: /\.(ts|tsx)$/,
           use: typescriptPipeline,
-          exclude: /node_modules/,
+          exclude: path.resolve(__dirname, 'node_modules'),
         },
         {
           test: /\.css$/,
