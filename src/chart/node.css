@@ -1,0 +1,31 @@
+.node {
+  cursor: pointer;
+  stroke: rgba(130, 130, 150, 1);
+  stroke-width: 1.1;
+
+  --active-stroke-color: rgb(50, 70, 100);
+  --active-stroke-width: 4;
+  --related-stroke-width: 2;
+  --related-to-selected-stroke-color: rgb(50, 70, 100);
+  --related-to-hovered-stroke-color: rgb(255, 0, 0);
+
+  &.relatedToSelected {
+    stroke: var(--related-to-selected-stroke-color);
+    stroke-width: var(--related-stroke-width);
+  }
+
+  &:hover {
+    stroke-width: 3;
+    stroke: #fff;
+  }
+
+  &.relatedToHovered {
+    stroke: var(--related-to-hovered-stroke-color);
+    stroke-width: var(--related-stroke-width);
+  }
+
+  &.active {
+    stroke: var(--active-stroke-color);
+    stroke-width: var(--active-stroke-width);
+  }
+}

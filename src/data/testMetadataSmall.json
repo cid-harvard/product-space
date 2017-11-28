@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A",
+    "shortLabel": "Node A",
+    "longLabel": "This is node A",
+    "color": "red"
+  },
+  {
+    "id": "B",
+    "shortLabel": "Node B",
+    "longLabel": "This is node B",
+    "color": "orange"
+  },
+  {
+    "id": "C",
+    "shortLabel": "Node C",
+    "longLabel": "This is node C",
+    "color": "yellow"
+  },
+  {
+    "id": "D",
+    "shortLabel": "Node D",
+    "longLabel": "This is node D",
+    "color": "green"
+  },
+  {
+    "id": "E",
+    "shortLabel": "Node E",
+    "longLabel": "This is node E",
+    "color": "blue"
+  },
+  {
+    "id": "F",
+    "shortLabel": "Node F",
+    "longLabel": "This is node F",
+    "color": "indigo"
+  },
+  {
+    "id": "G",
+    "shortLabel": "Node G",
+    "longLabel": "This is node G",
+    "color": "violet"
+  }
+]

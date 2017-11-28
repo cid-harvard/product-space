@@ -1,0 +1,4724 @@
+[
+    {
+        "id": "650",
+        "shortLabel": "Animals of the bovine species (including buffaloes), live",
+        "longLabel": "Animals of the bovine species (including buffaloes), live",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "651",
+        "shortLabel": "Sheep and goats, live",
+        "longLabel": "Sheep and goats, live",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "652",
+        "shortLabel": "Swine, live",
+        "longLabel": "Swine, live",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "653",
+        "shortLabel": "Poultry, live",
+        "longLabel": "Poultry, live",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "654",
+        "shortLabel": "Equine species, live",
+        "longLabel": "Equine species, live",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "655",
+        "shortLabel": "Live animals of a kind mainly used for human food, nes",
+        "longLabel": "Live animals of a kind mainly used for human food, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "656",
+        "shortLabel": "Bovine meat, fresh, chilled or frozen",
+        "longLabel": "Bovine meat, fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "657",
+        "shortLabel": "Meat of sheep and goats, fresh, chilled or frozen",
+        "longLabel": "Meat of sheep and goats, fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "658",
+        "shortLabel": "Pig meat fresh, chilled or frozen",
+        "longLabel": "Pig meat fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "659",
+        "shortLabel": "Poultry, dead and edible offal, fresh, chilled or frozen",
+        "longLabel": "Poultry, dead and edible offal, fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "660",
+        "shortLabel": "Meat of horses, asses, mules and hinnies, fresh, chilled or frozen",
+        "longLabel": "Meat of horses, asses, mules and hinnies, fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "661",
+        "shortLabel": "Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen",
+        "longLabel": "Edible offal of headings 0011-5 and 0015, fresh, chilled or frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "662",
+        "shortLabel": "Other fresh, chilled or frozen meat or edible meat offal",
+        "longLabel": "Other fresh, chilled or frozen meat or edible meat offal",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "663",
+        "shortLabel": "Bacon, ham, other dried, salted or smoked meat of domestic swine",
+        "longLabel": "Bacon, ham, other dried, salted or smoked meat of domestic swine",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "664",
+        "shortLabel": "Meat and edible meat offal, nes, in brine, dried, salted or smoked",
+        "longLabel": "Meat and edible meat offal, nes, in brine, dried, salted or smoked",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "665",
+        "shortLabel": "Meat extracts and juices; fish extracts",
+        "longLabel": "Meat extracts and juices; fish extracts",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "666",
+        "shortLabel": "Sausages and the like, of meat, meat offal or animal blood",
+        "longLabel": "Sausages and the like, of meat, meat offal or animal blood",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "667",
+        "shortLabel": "Other prepared or preserved meat or meat offal",
+        "longLabel": "Other prepared or preserved meat or meat offal",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "668",
+        "shortLabel": "Milk and cream fresh, not concentrated or sweetened",
+        "longLabel": "Milk and cream fresh, not concentrated or sweetened",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "669",
+        "shortLabel": "Milk and cream, preserved, concentrated or sweetened",
+        "longLabel": "Milk and cream, preserved, concentrated or sweetened",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "670",
+        "shortLabel": "Butter",
+        "longLabel": "Butter",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "671",
+        "shortLabel": "Cheese and curd",
+        "longLabel": "Cheese and curd",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "672",
+        "shortLabel": "Eggs, birds', and egg yolks, fresh, dried or preserved, in shell",
+        "longLabel": "Eggs, birds', and egg yolks, fresh, dried or preserved, in shell",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "673",
+        "shortLabel": "Eggs, birds', egg yolks, fresh, dried or preserved, not in shell",
+        "longLabel": "Eggs, birds', egg yolks, fresh, dried or preserved, not in shell",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "674",
+        "shortLabel": "Fish, fresh or chilled, excluding fillet",
+        "longLabel": "Fish, fresh or chilled, excluding fillet",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "675",
+        "shortLabel": "Fish, frozen, excluding fillets",
+        "longLabel": "Fish, frozen, excluding fillets",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "676",
+        "shortLabel": "Fish fillets, fresh or chilled",
+        "longLabel": "Fish fillets, fresh or chilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "677",
+        "shortLabel": "Fish fillets, frozen",
+        "longLabel": "Fish fillets, frozen",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "678",
+        "shortLabel": "Fish, dried, salted or in brine; smoked fish",
+        "longLabel": "Fish, dried, salted or in brine; smoked fish",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "679",
+        "shortLabel": "Crustaceans and molluscs, fresh, chilled, frozen, salted, etc",
+        "longLabel": "Crustaceans and molluscs, fresh, chilled, frozen, salted, etc",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "680",
+        "shortLabel": "Fish, prepared or preserved, nes",
+        "longLabel": "Fish, prepared or preserved, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "681",
+        "shortLabel": "Crustaceans and molluscs, prepared or prepared, nes",
+        "longLabel": "Crustaceans and molluscs, prepared or prepared, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "682",
+        "shortLabel": "Durum wheat, unmilled",
+        "longLabel": "Durum wheat, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "683",
+        "shortLabel": "Other wheat and meslin, unmilled",
+        "longLabel": "Other wheat and meslin, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "684",
+        "shortLabel": "Rice in the husk or husked, but not farther prepared",
+        "longLabel": "Rice in the husk or husked, but not farther prepared",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "685",
+        "shortLabel": "Rice, semi-milled or wholly milled",
+        "longLabel": "Rice, semi-milled or wholly milled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "686",
+        "shortLabel": "Barley, unmilled",
+        "longLabel": "Barley, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "687",
+        "shortLabel": "Maize, unmilled",
+        "longLabel": "Maize, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "688",
+        "shortLabel": "Rye, unmilled",
+        "longLabel": "Rye, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "689",
+        "shortLabel": "Oats, unmilled",
+        "longLabel": "Oats, unmilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "690",
+        "shortLabel": "Buckwheat, millet, etc, and other cereals, unmilled, nes",
+        "longLabel": "Buckwheat, millet, etc, and other cereals, unmilled, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "691",
+        "shortLabel": "Meal and flour of wheat and flour of meslin",
+        "longLabel": "Meal and flour of wheat and flour of meslin",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "692",
+        "shortLabel": "Other cereal meals and flour",
+        "longLabel": "Other cereal meals and flour",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "693",
+        "shortLabel": "Cereal grains, worked or prepared, not elsewhere specified",
+        "longLabel": "Cereal grains, worked or prepared, not elsewhere specified",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "694",
+        "shortLabel": "Malt, roasted or not, including flour",
+        "longLabel": "Malt, roasted or not, including flour",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "695",
+        "shortLabel": "Macaroni, spaghetti and similar products",
+        "longLabel": "Macaroni, spaghetti and similar products",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "696",
+        "shortLabel": "Bakery products",
+        "longLabel": "Bakery products",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "697",
+        "shortLabel": "Malt extract; cereals preparations with less 50% of cocoa",
+        "longLabel": "Malt extract; cereals preparations with less 50% of cocoa",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "698",
+        "shortLabel": "Potatoes, fresh or chilled, excluding sweet potatoes",
+        "longLabel": "Potatoes, fresh or chilled, excluding sweet potatoes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "699",
+        "shortLabel": "Beans, peas, other leguminous vegetables, dried, shelled",
+        "longLabel": "Beans, peas, other leguminous vegetables, dried, shelled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "700",
+        "shortLabel": "Tomatoes, fresh or chilled",
+        "longLabel": "Tomatoes, fresh or chilled",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "701",
+        "shortLabel": "Other fresh or chilled vegetables",
+        "longLabel": "Other fresh or chilled vegetables",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "702",
+        "shortLabel": "Vegetables, frozen or in temporary preservative",
+        "longLabel": "Vegetables, frozen or in temporary preservative",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "703",
+        "shortLabel": "Vegetable products roots and tubers, nes, fresh, dried",
+        "longLabel": "Vegetable products roots and tubers, nes, fresh, dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "704",
+        "shortLabel": "Vegetables (excluding leguminous), dried, evaporated, etc",
+        "longLabel": "Vegetables (excluding leguminous), dried, evaporated, etc",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "705",
+        "shortLabel": "Flour, meals and flakes of potatoes, fruit and vegetables, nes",
+        "longLabel": "Flour, meals and flakes of potatoes, fruit and vegetables, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "706",
+        "shortLabel": "Vegetables, prepared or preserved, nes",
+        "longLabel": "Vegetables, prepared or preserved, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "707",
+        "shortLabel": "Oranges, mandarins, etc, fresh or dried",
+        "longLabel": "Oranges, mandarins, etc, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "708",
+        "shortLabel": "Other citrus fruits, fresh or dried",
+        "longLabel": "Other citrus fruits, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "709",
+        "shortLabel": "Banana, plantain, fresh or dried",
+        "longLabel": "Banana, plantain, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "710",
+        "shortLabel": "Apples, fresh",
+        "longLabel": "Apples, fresh",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "711",
+        "shortLabel": "Grapes, fresh or dried",
+        "longLabel": "Grapes, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "712",
+        "shortLabel": "Figs, fresh or dried",
+        "longLabel": "Figs, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "713",
+        "shortLabel": "Nuts edible, fresh or dried",
+        "longLabel": "Nuts edible, fresh or dried",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "714",
+        "shortLabel": "Fruit, fresh or dried, nes",
+        "longLabel": "Fruit, fresh or dried, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "715",
+        "shortLabel": "Fruit, fruit-peel and parts of plants, preserved by sugar",
+        "longLabel": "Fruit, fruit-peel and parts of plants, preserved by sugar",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "716",
+        "shortLabel": "Jams, jellies, marmalades, etc, as cooked preparations",
+        "longLabel": "Jams, jellies, marmalades, etc, as cooked preparations",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "717",
+        "shortLabel": "Fruit or vegetable juices",
+        "longLabel": "Fruit or vegetable juices",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "718",
+        "shortLabel": "Fruit, temporarily preserved",
+        "longLabel": "Fruit, temporarily preserved",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "719",
+        "shortLabel": "Fruit prepared or preserved, nes",
+        "longLabel": "Fruit prepared or preserved, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "720",
+        "shortLabel": "Sugars, beet and cane, raw, solid",
+        "longLabel": "Sugars, beet and cane, raw, solid",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "721",
+        "shortLabel": "Refined sugar etc",
+        "longLabel": "Refined sugar etc",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "722",
+        "shortLabel": "Molasses",
+        "longLabel": "Molasses",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "723",
+        "shortLabel": "Natural honey",
+        "longLabel": "Natural honey",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "724",
+        "shortLabel": "Sugars and syrups nes; artificial honey; caramel",
+        "longLabel": "Sugars and syrups nes; artificial honey; caramel",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "725",
+        "shortLabel": "Sugar confectionery and preparations, non-chocolate",
+        "longLabel": "Sugar confectionery and preparations, non-chocolate",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "726",
+        "shortLabel": "Coffee green, roasted; coffee substitutes containing coffee",
+        "longLabel": "Coffee green, roasted; coffee substitutes containing coffee",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "727",
+        "shortLabel": "Coffee extracts, essences or concentrates",
+        "longLabel": "Coffee extracts, essences or concentrates",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "728",
+        "shortLabel": "Cocoa beans, raw, roasted",
+        "longLabel": "Cocoa beans, raw, roasted",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "729",
+        "shortLabel": "Cocoa powder, unsweetened",
+        "longLabel": "Cocoa powder, unsweetened",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "730",
+        "shortLabel": "Cocoa butter and paste",
+        "longLabel": "Cocoa butter and paste",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "731",
+        "shortLabel": "Chocolate and other preparations containing cocoa, nes",
+        "longLabel": "Chocolate and other preparations containing cocoa, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "732",
+        "shortLabel": "Tea",
+        "longLabel": "Tea",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "733",
+        "shortLabel": "Mate",
+        "longLabel": "Mate",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "734",
+        "shortLabel": "Pepper of \"piper\"; pimento of \"capsicum or pimenta\"",
+        "longLabel": "Pepper of \"piper\"; pimento of \"capsicum or pimenta\"",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "735",
+        "shortLabel": "Spices, except pepper and pimento",
+        "longLabel": "Spices, except pepper and pimento",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "736",
+        "shortLabel": "Hay and fodder, green or dry",
+        "longLabel": "Hay and fodder, green or dry",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "737",
+        "shortLabel": "Bran, sharps and other residues derives of cereals",
+        "longLabel": "Bran, sharps and other residues derives of cereals",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "738",
+        "shortLabel": "Oilcake and other residues (except dregs)",
+        "longLabel": "Oilcake and other residues (except dregs)",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "739",
+        "shortLabel": "Flours and meals, of meat, fish,etc, unfit for human; greaves",
+        "longLabel": "Flours and meals, of meat, fish,etc, unfit for human; greaves",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "740",
+        "shortLabel": "Food waste and prepared animal feed, nes",
+        "longLabel": "Food waste and prepared animal feed, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "741",
+        "shortLabel": "Lard, pig and poultry fat, rendered or solvent-extracted",
+        "longLabel": "Lard, pig and poultry fat, rendered or solvent-extracted",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "742",
+        "shortLabel": "Margarine, imitation lard and other prepared edible fats, nes",
+        "longLabel": "Margarine, imitation lard and other prepared edible fats, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "743",
+        "shortLabel": "Edible products and preparations, nes",
+        "longLabel": "Edible products and preparations, nes",
+        "color": "#F5CF23"
+    },
+    {
+        "id": "744",
+        "shortLabel": "Non-alcoholic beverages, nes",
+        "longLabel": "Non-alcoholic beverages, nes",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "745",
+        "shortLabel": "Wine of fresh grapes etc",
+        "longLabel": "Wine of fresh grapes etc",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "746",
+        "shortLabel": "Other fermented beverages, nes (cider, perry, mead, etc)",
+        "longLabel": "Other fermented beverages, nes (cider, perry, mead, etc)",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "747",
+        "shortLabel": "Beer made from malt (including ale, stout and porter)",
+        "longLabel": "Beer made from malt (including ale, stout and porter)",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "748",
+        "shortLabel": "Distilled alcoholic beverages, nes",
+        "longLabel": "Distilled alcoholic beverages, nes",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "749",
+        "shortLabel": "Tobacco, not stripped",
+        "longLabel": "Tobacco, not stripped",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "750",
+        "shortLabel": "Tobacco, wholly or partly stripped",
+        "longLabel": "Tobacco, wholly or partly stripped",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "751",
+        "shortLabel": "Tobacco refuse",
+        "longLabel": "Tobacco refuse",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "752",
+        "shortLabel": "Cigars, cheroots: cigarillos",
+        "longLabel": "Cigars, cheroots: cigarillos",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "753",
+        "shortLabel": "Cigarettes",
+        "longLabel": "Cigarettes",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "754",
+        "shortLabel": "Tobacco, manufactured; tobacco extract and essences",
+        "longLabel": "Tobacco, manufactured; tobacco extract and essences",
+        "color": "#FE85AD"
+    },
+    {
+        "id": "755",
+        "shortLabel": "Bovine and equine hides, raw, whether or not split",
+        "longLabel": "Bovine and equine hides, raw, whether or not split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "756",
+        "shortLabel": "Calf skins, raw, whether or not split",
+        "longLabel": "Calf skins, raw, whether or not split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "757",
+        "shortLabel": "Goat and kid skins, raw, whether or not split",
+        "longLabel": "Goat and kid skins, raw, whether or not split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "758",
+        "shortLabel": "Sheep and lamb skin with the wool on, raw, whether or not split",
+        "longLabel": "Sheep and lamb skin with the wool on, raw, whether or not split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "759",
+        "shortLabel": "Sheep and lamb skin without the wool, raw, whether or not split",
+        "longLabel": "Sheep and lamb skin without the wool, raw, whether or not split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "760",
+        "shortLabel": "Hides and skins, nes; waste and used leather",
+        "longLabel": "Hides and skins, nes; waste and used leather",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "761",
+        "shortLabel": "Furskins, raw",
+        "longLabel": "Furskins, raw",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "762",
+        "shortLabel": "Groundnuts, green",
+        "longLabel": "Groundnuts, green",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "763",
+        "shortLabel": "Soya beans",
+        "longLabel": "Soya beans",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "764",
+        "shortLabel": "Cotton seeds",
+        "longLabel": "Cotton seeds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "765",
+        "shortLabel": "Sunflower seeds",
+        "longLabel": "Sunflower seeds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "766",
+        "shortLabel": "Sesame seeds",
+        "longLabel": "Sesame seeds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "767",
+        "shortLabel": "Rape and colza seeds",
+        "longLabel": "Rape and colza seeds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "768",
+        "shortLabel": "Copra",
+        "longLabel": "Copra",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "769",
+        "shortLabel": "Palm nuts and kernels",
+        "longLabel": "Palm nuts and kernels",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "770",
+        "shortLabel": "Linseed",
+        "longLabel": "Linseed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "771",
+        "shortLabel": "Castor oil seeds",
+        "longLabel": "Castor oil seeds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "772",
+        "shortLabel": "Oil seeds and oleaginous fruits, nes",
+        "longLabel": "Oil seeds and oleaginous fruits, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "773",
+        "shortLabel": "Flour or meals of oil seeds or oleaginous fruit, non-defatted",
+        "longLabel": "Flour or meals of oil seeds or oleaginous fruit, non-defatted",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "774",
+        "shortLabel": "Natural rubber latex; natural rubber and gums",
+        "longLabel": "Natural rubber latex; natural rubber and gums",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "775",
+        "shortLabel": "Synthetic rubber, latex; factice derived from oils",
+        "longLabel": "Synthetic rubber, latex; factice derived from oils",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "776",
+        "shortLabel": "Reclaimed rubber, waste, scrap of unhardened rubber",
+        "longLabel": "Reclaimed rubber, waste, scrap of unhardened rubber",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "777",
+        "shortLabel": "Cork, natural, raw and waste",
+        "longLabel": "Cork, natural, raw and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "778",
+        "shortLabel": "Fuel wood and wood charcoal",
+        "longLabel": "Fuel wood and wood charcoal",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "779",
+        "shortLabel": "Pulpwood (including chips and wood waste)",
+        "longLabel": "Pulpwood (including chips and wood waste)",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "780",
+        "shortLabel": "Sawlogs and veneer logs, of coniferous species",
+        "longLabel": "Sawlogs and veneer logs, of coniferous species",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "781",
+        "shortLabel": "Sawlogs and veneer logs, of non-coniferous species",
+        "longLabel": "Sawlogs and veneer logs, of non-coniferous species",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "782",
+        "shortLabel": "Pitprops, poles, piling, post and other wood in the rough, nes",
+        "longLabel": "Pitprops, poles, piling, post and other wood in the rough, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "783",
+        "shortLabel": "Railway or tramway sleepers (ties) of wood",
+        "longLabel": "Railway or tramway sleepers (ties) of wood",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "784",
+        "shortLabel": "Wood of coniferous species, sawn, planed, tongued, grooved, etc",
+        "longLabel": "Wood of coniferous species, sawn, planed, tongued, grooved, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "785",
+        "shortLabel": "Wood, non-coniferous species, sawn, planed, tongued, grooved, etc",
+        "longLabel": "Wood, non-coniferous species, sawn, planed, tongued, grooved, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "786",
+        "shortLabel": "Waste paper and paperboard, etc",
+        "longLabel": "Waste paper and paperboard, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "787",
+        "shortLabel": "Mechanical wood pulp",
+        "longLabel": "Mechanical wood pulp",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "788",
+        "shortLabel": "Chemical wood pulp, dissolving grades",
+        "longLabel": "Chemical wood pulp, dissolving grades",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "789",
+        "shortLabel": "Chemical wood pulp, soda or sulphate",
+        "longLabel": "Chemical wood pulp, soda or sulphate",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "790",
+        "shortLabel": "Chemical wood pulp, sulphite",
+        "longLabel": "Chemical wood pulp, sulphite",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "791",
+        "shortLabel": "Other cellulosic pulps",
+        "longLabel": "Other cellulosic pulps",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "792",
+        "shortLabel": "Raw silk (not thrown)",
+        "longLabel": "Raw silk (not thrown)",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "793",
+        "shortLabel": "Silk worm cocoons and silk waste",
+        "longLabel": "Silk worm cocoons and silk waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "794",
+        "shortLabel": "Raw cotton, excluding linters, not carded or combed",
+        "longLabel": "Raw cotton, excluding linters, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "795",
+        "shortLabel": "Cotton linters",
+        "longLabel": "Cotton linters",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "796",
+        "shortLabel": "Cotton waste, not carded or combed",
+        "longLabel": "Cotton waste, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "797",
+        "shortLabel": "Cotton, carded or combed",
+        "longLabel": "Cotton, carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "798",
+        "shortLabel": "Jute, other textile bast fibres, nes, raw, processed but not spun",
+        "longLabel": "Jute, other textile bast fibres, nes, raw, processed but not spun",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "799",
+        "shortLabel": "Flax and ramie, flax tow, ramie noils, and waste",
+        "longLabel": "Flax and ramie, flax tow, ramie noils, and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "800",
+        "shortLabel": "True hemp, raw or processed but not spun, its tow and waste",
+        "longLabel": "True hemp, raw or processed but not spun, its tow and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "801",
+        "shortLabel": "Sisal, agave fibres, raw or processed but not spun, and waste",
+        "longLabel": "Sisal, agave fibres, raw or processed but not spun, and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "802",
+        "shortLabel": "Manila hemp, raw or processed but not spun, its tow and waste",
+        "longLabel": "Manila hemp, raw or processed but not spun, its tow and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "803",
+        "shortLabel": "Vegetable textile fibres, nes, and waste",
+        "longLabel": "Vegetable textile fibres, nes, and waste",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "804",
+        "shortLabel": "Discontinuous synthetic fibres, not carded or combed",
+        "longLabel": "Discontinuous synthetic fibres, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "805",
+        "shortLabel": "Continuous filament tow for synthetic (discontinuous) fibres",
+        "longLabel": "Continuous filament tow for synthetic (discontinuous) fibres",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "806",
+        "shortLabel": "Discontinuous synthetic fibres, carded or combed",
+        "longLabel": "Discontinuous synthetic fibres, carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "807",
+        "shortLabel": "Regenerated fibre suitable for spinning",
+        "longLabel": "Regenerated fibre suitable for spinning",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "808",
+        "shortLabel": "Waste of man-made fibres, not carded or combed",
+        "longLabel": "Waste of man-made fibres, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "809",
+        "shortLabel": "Wool greasy or fleece-washed of sheep or lambs",
+        "longLabel": "Wool greasy or fleece-washed of sheep or lambs",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "810",
+        "shortLabel": "Wool degreased, uncombed of sheep or lambs",
+        "longLabel": "Wool degreased, uncombed of sheep or lambs",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "811",
+        "shortLabel": "Fine animal hair, not carded or combed",
+        "longLabel": "Fine animal hair, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "812",
+        "shortLabel": "Horsehair and other coarse animal hair, not carded or combed",
+        "longLabel": "Horsehair and other coarse animal hair, not carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "813",
+        "shortLabel": "Waste of sheep's or lambs' wool, or of other animal hair, nes",
+        "longLabel": "Waste of sheep's or lambs' wool, or of other animal hair, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "814",
+        "shortLabel": "Sheep's or lambs' wool, or of other animal hair, carded or combed",
+        "longLabel": "Sheep's or lambs' wool, or of other animal hair, carded or combed",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "815",
+        "shortLabel": "Old clothing and other old textile articles; rags",
+        "longLabel": "Old clothing and other old textile articles; rags",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "816",
+        "shortLabel": "Animal or vegetable fertilizer, crude",
+        "longLabel": "Animal or vegetable fertilizer, crude",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "817",
+        "shortLabel": "Natural sodium nitrate",
+        "longLabel": "Natural sodium nitrate",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "818",
+        "shortLabel": "Natural calcium phosphates, natural aluminium, etc",
+        "longLabel": "Natural calcium phosphates, natural aluminium, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "819",
+        "shortLabel": "Potassium salts, natural, crude",
+        "longLabel": "Potassium salts, natural, crude",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "820",
+        "shortLabel": "Building and monumental (dimension) stone, roughly squared, split",
+        "longLabel": "Building and monumental (dimension) stone, roughly squared, split",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "821",
+        "shortLabel": "Gypsum, plasters, limestone flux and calcareous stone",
+        "longLabel": "Gypsum, plasters, limestone flux and calcareous stone",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "822",
+        "shortLabel": "Sands, excluding metal-bearing sands",
+        "longLabel": "Sands, excluding metal-bearing sands",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "823",
+        "shortLabel": "Pebbles, gravel, crushed or broken stone, etc",
+        "longLabel": "Pebbles, gravel, crushed or broken stone, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "824",
+        "shortLabel": "Sulphur (other than sublimed, precipitated or colloidal)",
+        "longLabel": "Sulphur (other than sublimed, precipitated or colloidal)",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "825",
+        "shortLabel": "Iron pyrites, unroasted",
+        "longLabel": "Iron pyrites, unroasted",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "826",
+        "shortLabel": "Industrial diamonds",
+        "longLabel": "Industrial diamonds",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "827",
+        "shortLabel": "Other natural abrasives",
+        "longLabel": "Other natural abrasives",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "828",
+        "shortLabel": "Clay and other refractory minerals, nes",
+        "longLabel": "Clay and other refractory minerals, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "829",
+        "shortLabel": "Common salt; pure sodium chloride; salt liquors; sea water",
+        "longLabel": "Common salt; pure sodium chloride; salt liquors; sea water",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "830",
+        "shortLabel": "Asbestos",
+        "longLabel": "Asbestos",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "831",
+        "shortLabel": "Quartz, mica, felspar, fluorspar, cryolite and chiolite",
+        "longLabel": "Quartz, mica, felspar, fluorspar, cryolite and chiolite",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "832",
+        "shortLabel": "Slag, scalings, dross and similar waste, nes",
+        "longLabel": "Slag, scalings, dross and similar waste, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "833",
+        "shortLabel": "Minerals, crude, nes",
+        "longLabel": "Minerals, crude, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "834",
+        "shortLabel": "Roasted iron pyrites",
+        "longLabel": "Roasted iron pyrites",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "835",
+        "shortLabel": "Iron ore and concentrates, not agglomerated",
+        "longLabel": "Iron ore and concentrates, not agglomerated",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "836",
+        "shortLabel": "Iron ore agglomerates",
+        "longLabel": "Iron ore agglomerates",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "837",
+        "shortLabel": "Waste and scrap metal of iron or steel",
+        "longLabel": "Waste and scrap metal of iron or steel",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "838",
+        "shortLabel": "Ores and concentrates of uranium and thorium",
+        "longLabel": "Ores and concentrates of uranium and thorium",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "839",
+        "shortLabel": "Copper ore and concentrates; copper matte; cement copper",
+        "longLabel": "Copper ore and concentrates; copper matte; cement copper",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "840",
+        "shortLabel": "Nickel ores and concentrates; nickel mattes, etc",
+        "longLabel": "Nickel ores and concentrates; nickel mattes, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "841",
+        "shortLabel": "Aluminium ores and concentrates (including alumina)",
+        "longLabel": "Aluminium ores and concentrates (including alumina)",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "842",
+        "shortLabel": "Lead ores and concentrates",
+        "longLabel": "Lead ores and concentrates",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "843",
+        "shortLabel": "Zinc ores and concentrates",
+        "longLabel": "Zinc ores and concentrates",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "844",
+        "shortLabel": "Tin ores and concentrates",
+        "longLabel": "Tin ores and concentrates",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "845",
+        "shortLabel": "Manganese ore and concentrates",
+        "longLabel": "Manganese ore and concentrates",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "846",
+        "shortLabel": "Ores and concentrates of other non-ferrous base metals",
+        "longLabel": "Ores and concentrates of other non-ferrous base metals",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "847",
+        "shortLabel": "Ash and residues, nes",
+        "longLabel": "Ash and residues, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "848",
+        "shortLabel": "Other non-ferrous base metal waste and scrap, nes",
+        "longLabel": "Other non-ferrous base metal waste and scrap, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "849",
+        "shortLabel": "Ores and concentrates of precious metals, waste, scrap",
+        "longLabel": "Ores and concentrates of precious metals, waste, scrap",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "850",
+        "shortLabel": "Bones, ivory, horns, coral, shells and similar products",
+        "longLabel": "Bones, ivory, horns, coral, shells and similar products",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "851",
+        "shortLabel": "Other materials of animal origin, nes",
+        "longLabel": "Other materials of animal origin, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "852",
+        "shortLabel": "Natural gums, resins, lacs and balsams",
+        "longLabel": "Natural gums, resins, lacs and balsams",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "853",
+        "shortLabel": "Vegetable plaiting materials",
+        "longLabel": "Vegetable plaiting materials",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "854",
+        "shortLabel": "Plants and parts of trees used in perfumery; in pharmacy; etc",
+        "longLabel": "Plants and parts of trees used in perfumery; in pharmacy; etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "855",
+        "shortLabel": "Seeds, fruits and spores, nes, for planting",
+        "longLabel": "Seeds, fruits and spores, nes, for planting",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "856",
+        "shortLabel": "Live plants, bulbs, etc",
+        "longLabel": "Live plants, bulbs, etc",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "857",
+        "shortLabel": "Cut flowers and foliage",
+        "longLabel": "Cut flowers and foliage",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "858",
+        "shortLabel": "Other materials of vegetable origin, nes",
+        "longLabel": "Other materials of vegetable origin, nes",
+        "color": "rgb(217, 123, 123)"
+    },
+    {
+        "id": "859",
+        "shortLabel": "Anthracite, not agglomerated",
+        "longLabel": "Anthracite, not agglomerated",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "860",
+        "shortLabel": "Other coal, not agglomerated",
+        "longLabel": "Other coal, not agglomerated",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "861",
+        "shortLabel": "Lignite, not agglomerated",
+        "longLabel": "Lignite, not agglomerated",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "862",
+        "shortLabel": "Peat, not agglomerated",
+        "longLabel": "Peat, not agglomerated",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "863",
+        "shortLabel": "Briquettes, ovoids, from coal, lignite or peat",
+        "longLabel": "Briquettes, ovoids, from coal, lignite or peat",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "864",
+        "shortLabel": "Coke and semi-coke of coal, of lignite or peat; retort carbon",
+        "longLabel": "Coke and semi-coke of coal, of lignite or peat; retort carbon",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "865",
+        "shortLabel": "Crude petroleum and oils obtained from bituminous materials",
+        "longLabel": "Crude petroleum and oils obtained from bituminous materials",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "866",
+        "shortLabel": "Gasoline and other light oils",
+        "longLabel": "Gasoline and other light oils",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "867",
+        "shortLabel": "Kerosene and other medium oils",
+        "longLabel": "Kerosene and other medium oils",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "868",
+        "shortLabel": "Gas oils",
+        "longLabel": "Gas oils",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "869",
+        "shortLabel": "Fuel oils, nes",
+        "longLabel": "Fuel oils, nes",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "870",
+        "shortLabel": "Lubricating petroleum oils, and preparations, nes",
+        "longLabel": "Lubricating petroleum oils, and preparations, nes",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "871",
+        "shortLabel": "Petroleum jelly and mineral waxes",
+        "longLabel": "Petroleum jelly and mineral waxes",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "872",
+        "shortLabel": "Mineral tars and products",
+        "longLabel": "Mineral tars and products",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "873",
+        "shortLabel": "Mineral tar pitch, pitch coke",
+        "longLabel": "Mineral tar pitch, pitch coke",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "874",
+        "shortLabel": "Petroleum bitumen, petroleum coke and bituminous mixtures, nes",
+        "longLabel": "Petroleum bitumen, petroleum coke and bituminous mixtures, nes",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "875",
+        "shortLabel": "Petroleum gases and other gaseous hydrocarbons, nes, liquefied",
+        "longLabel": "Petroleum gases and other gaseous hydrocarbons, nes, liquefied",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "876",
+        "shortLabel": "Petroleum gases, nes, in gaseous state",
+        "longLabel": "Petroleum gases, nes, in gaseous state",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "877",
+        "shortLabel": "Coal gas, water gas and similar gases",
+        "longLabel": "Coal gas, water gas and similar gases",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "878",
+        "shortLabel": "Electric current",
+        "longLabel": "Electric current",
+        "color": "rgb(187, 150, 138)"
+    },
+    {
+        "id": "879",
+        "shortLabel": "Fat and oils of fish and marine mammals",
+        "longLabel": "Fat and oils of fish and marine mammals",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "880",
+        "shortLabel": "Animals oils, fats and greases, nes",
+        "longLabel": "Animals oils, fats and greases, nes",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "881",
+        "shortLabel": "Soya bean oil",
+        "longLabel": "Soya bean oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "882",
+        "shortLabel": "Cotton seed oil",
+        "longLabel": "Cotton seed oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "883",
+        "shortLabel": "Groundnut (peanut) oil",
+        "longLabel": "Groundnut (peanut) oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "884",
+        "shortLabel": "Olive oil",
+        "longLabel": "Olive oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "885",
+        "shortLabel": "Sunflower seed oil",
+        "longLabel": "Sunflower seed oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "886",
+        "shortLabel": "Other fixed vegetable oils, soft",
+        "longLabel": "Other fixed vegetable oils, soft",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "887",
+        "shortLabel": "Linseed oil",
+        "longLabel": "Linseed oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "888",
+        "shortLabel": "Palm oil",
+        "longLabel": "Palm oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "889",
+        "shortLabel": "Coconut (copra) oil",
+        "longLabel": "Coconut (copra) oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "890",
+        "shortLabel": "Palm kernel oil",
+        "longLabel": "Palm kernel oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "891",
+        "shortLabel": "Castor oil",
+        "longLabel": "Castor oil",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "892",
+        "shortLabel": "Fixed vegetable oils, nes",
+        "longLabel": "Fixed vegetable oils, nes",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "893",
+        "shortLabel": "Processed animal and vegetable oils",
+        "longLabel": "Processed animal and vegetable oils",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "894",
+        "shortLabel": "Hydrogenated animal or vegetable oils and fats",
+        "longLabel": "Hydrogenated animal or vegetable oils and fats",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "895",
+        "shortLabel": "Fatty acids, acid oils, and residues; degras",
+        "longLabel": "Fatty acids, acid oils, and residues; degras",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "896",
+        "shortLabel": "Waxes of animal or vegetable origin",
+        "longLabel": "Waxes of animal or vegetable origin",
+        "color": "#FDA81B"
+    },
+    {
+        "id": "897",
+        "shortLabel": "Acyclic hydrocarbons",
+        "longLabel": "Acyclic hydrocarbons",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "898",
+        "shortLabel": "Cyclic hydrocarbons",
+        "longLabel": "Cyclic hydrocarbons",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "899",
+        "shortLabel": "Halogenated derivatives of hydrocarbons",
+        "longLabel": "Halogenated derivatives of hydrocarbons",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "900",
+        "shortLabel": "Hydrocarbons derivatives, nonhaloganeted",
+        "longLabel": "Hydrocarbons derivatives, nonhaloganeted",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "901",
+        "shortLabel": "Acyclic alcohols, and their derivatives",
+        "longLabel": "Acyclic alcohols, and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "902",
+        "shortLabel": "Cyclic alcohols, and their derivatives",
+        "longLabel": "Cyclic alcohols, and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "903",
+        "shortLabel": "Phenols and phenol-alcohols, and their derivatives",
+        "longLabel": "Phenols and phenol-alcohols, and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "904",
+        "shortLabel": "Monocarboxylic acids and their derivatives",
+        "longLabel": "Monocarboxylic acids and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "905",
+        "shortLabel": "Polycarboxylic acids and their derivatives",
+        "longLabel": "Polycarboxylic acids and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "906",
+        "shortLabel": "Oxygen-function acids, and their derivatives",
+        "longLabel": "Oxygen-function acids, and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "907",
+        "shortLabel": "Amine-function compounds",
+        "longLabel": "Amine-function compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "908",
+        "shortLabel": "Oxygen-function amino-compounds",
+        "longLabel": "Oxygen-function amino-compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "909",
+        "shortLabel": "Amide-function compounds; excluding urea",
+        "longLabel": "Amide-function compounds; excluding urea",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "910",
+        "shortLabel": "Other nitrogen-function compounds",
+        "longLabel": "Other nitrogen-function compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "911",
+        "shortLabel": "Organo-sulphur compounds",
+        "longLabel": "Organo-sulphur compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "912",
+        "shortLabel": "Other organo-inorganic compounds",
+        "longLabel": "Other organo-inorganic compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "913",
+        "shortLabel": "Heterocyclic compound; nucleic acids",
+        "longLabel": "Heterocyclic compound; nucleic acids",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "914",
+        "shortLabel": "Sulphonamides, sultones and sultams",
+        "longLabel": "Sulphonamides, sultones and sultams",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "915",
+        "shortLabel": "Ethers, epoxides, acetals",
+        "longLabel": "Ethers, epoxides, acetals",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "916",
+        "shortLabel": "Aldehyde, ketone and quinone-function compounds",
+        "longLabel": "Aldehyde, ketone and quinone-function compounds",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "917",
+        "shortLabel": "Inorganic esters, their salts and derivatives",
+        "longLabel": "Inorganic esters, their salts and derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "918",
+        "shortLabel": "Organic chemicals, nes",
+        "longLabel": "Organic chemicals, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "919",
+        "shortLabel": "Chemical elements",
+        "longLabel": "Chemical elements",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "920",
+        "shortLabel": "Inorganic acids and oxygen compounds of non-metals",
+        "longLabel": "Inorganic acids and oxygen compounds of non-metals",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "921",
+        "shortLabel": "Halogen and sulphur compounds of non-metals",
+        "longLabel": "Halogen and sulphur compounds of non-metals",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "922",
+        "shortLabel": "Metallic oxides of zinc, iron, lead, chromium etc",
+        "longLabel": "Metallic oxides of zinc, iron, lead, chromium etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "923",
+        "shortLabel": "Inorganic bases and metallic oxides, hydroxides and peroxides",
+        "longLabel": "Inorganic bases and metallic oxides, hydroxides and peroxides",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "924",
+        "shortLabel": "Metallic salts and peroxysalts of inorganic acids",
+        "longLabel": "Metallic salts and peroxysalts of inorganic acids",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "925",
+        "shortLabel": "Metallic salts and peroxysalts of inorganic acids",
+        "longLabel": "Metallic salts and peroxysalts of inorganic acids",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "926",
+        "shortLabel": "Salts of metallic acids; compounds of precious metals",
+        "longLabel": "Salts of metallic acids; compounds of precious metals",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "927",
+        "shortLabel": "Inorganic chemical products, nes",
+        "longLabel": "Inorganic chemical products, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "928",
+        "shortLabel": "Radio-active chemical elements, isotopes etc",
+        "longLabel": "Radio-active chemical elements, isotopes etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "929",
+        "shortLabel": "Other radio-active and associated materials",
+        "longLabel": "Other radio-active and associated materials",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "930",
+        "shortLabel": "Synthetic organic dyestuffs, etc, natural indigo and colour lakes",
+        "longLabel": "Synthetic organic dyestuffs, etc, natural indigo and colour lakes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "931",
+        "shortLabel": "Synthetic organic luminophores, indigo, lakes",
+        "longLabel": "Synthetic organic luminophores, indigo, lakes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "932",
+        "shortLabel": "Dyeing, tanning extracts, tannins and their derivatives",
+        "longLabel": "Dyeing, tanning extracts, tannins and their derivatives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "933",
+        "shortLabel": "Synthetic tanning substances; tanning preparations",
+        "longLabel": "Synthetic tanning substances; tanning preparations",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "934",
+        "shortLabel": "Other colouring matter; inorganic products use as luminophores",
+        "longLabel": "Other colouring matter; inorganic products use as luminophores",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "935",
+        "shortLabel": "Printing inks",
+        "longLabel": "Printing inks",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "936",
+        "shortLabel": "Varnishes and lacquers; distempers etc",
+        "longLabel": "Varnishes and lacquers; distempers etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "937",
+        "shortLabel": "Glazes, driers, putty etc",
+        "longLabel": "Glazes, driers, putty etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "938",
+        "shortLabel": "Provitamins and vitamins",
+        "longLabel": "Provitamins and vitamins",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "939",
+        "shortLabel": "Antibiotics, not put up as medicaments",
+        "longLabel": "Antibiotics, not put up as medicaments",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "940",
+        "shortLabel": "Vegetable alkaloids and derivatives, not put up as medicaments",
+        "longLabel": "Vegetable alkaloids and derivatives, not put up as medicaments",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "941",
+        "shortLabel": "Hormones, natural, or reproduce by synthesis, in bulk",
+        "longLabel": "Hormones, natural, or reproduce by synthesis, in bulk",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "942",
+        "shortLabel": "Glycosides, glands, antisera, vaccines and similar products",
+        "longLabel": "Glycosides, glands, antisera, vaccines and similar products",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "943",
+        "shortLabel": "Medicaments (including veterinary medicaments)",
+        "longLabel": "Medicaments (including veterinary medicaments)",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "944",
+        "shortLabel": "Pharmaceutical goods, other than medicaments",
+        "longLabel": "Pharmaceutical goods, other than medicaments",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "945",
+        "shortLabel": "Essential oil, resinoid, etc",
+        "longLabel": "Essential oil, resinoid, etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "946",
+        "shortLabel": "Mixtures of odoriferous substances, used in perfumery, food etc",
+        "longLabel": "Mixtures of odoriferous substances, used in perfumery, food etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "947",
+        "shortLabel": "Perfumery, cosmetics, toilet preparations, etc",
+        "longLabel": "Perfumery, cosmetics, toilet preparations, etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "948",
+        "shortLabel": "Soaps, organic products and preparations for use as soap",
+        "longLabel": "Soaps, organic products and preparations for use as soap",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "949",
+        "shortLabel": "Organic surface-active agents, nes",
+        "longLabel": "Organic surface-active agents, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "950",
+        "shortLabel": "Polishes and creams, for furniture, floors, footwear, metals etc",
+        "longLabel": "Polishes and creams, for furniture, floors, footwear, metals etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "951",
+        "shortLabel": "Mineral or chemical fertilizers, nitrogenous",
+        "longLabel": "Mineral or chemical fertilizers, nitrogenous",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "952",
+        "shortLabel": "Mineral or chemical fertilizers, phosphatic",
+        "longLabel": "Mineral or chemical fertilizers, phosphatic",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "953",
+        "shortLabel": "Mineral or chemical fertilizer, potassic",
+        "longLabel": "Mineral or chemical fertilizer, potassic",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "954",
+        "shortLabel": "Fertilizers, nes",
+        "longLabel": "Fertilizers, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "955",
+        "shortLabel": "Propellent powders and other prepared explosives",
+        "longLabel": "Propellent powders and other prepared explosives",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "956",
+        "shortLabel": "Fuses, caps, igniters, detonators",
+        "longLabel": "Fuses, caps, igniters, detonators",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "957",
+        "shortLabel": "Pyrotechnic articles",
+        "longLabel": "Pyrotechnic articles",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "958",
+        "shortLabel": "Phenoplasts",
+        "longLabel": "Phenoplasts",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "959",
+        "shortLabel": "Aminoplasts",
+        "longLabel": "Aminoplasts",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "960",
+        "shortLabel": "Alkyds and other polyesters",
+        "longLabel": "Alkyds and other polyesters",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "961",
+        "shortLabel": "Polyamides",
+        "longLabel": "Polyamides",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "962",
+        "shortLabel": "Polyurethanes",
+        "longLabel": "Polyurethanes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "963",
+        "shortLabel": "Epoxide resins",
+        "longLabel": "Epoxide resins",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "964",
+        "shortLabel": "Silicones",
+        "longLabel": "Silicones",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "965",
+        "shortLabel": "Ion exchangers of the condensation, polycondensation etc",
+        "longLabel": "Ion exchangers of the condensation, polycondensation etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "966",
+        "shortLabel": "Other condensation, polycodensation or polyaddition products",
+        "longLabel": "Other condensation, polycodensation or polyaddition products",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "967",
+        "shortLabel": "Polyethylene",
+        "longLabel": "Polyethylene",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "968",
+        "shortLabel": "Polypropylene",
+        "longLabel": "Polypropylene",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "969",
+        "shortLabel": "Polystyrene and its copolymers",
+        "longLabel": "Polystyrene and its copolymers",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "970",
+        "shortLabel": "Polyvinyl chloride",
+        "longLabel": "Polyvinyl chloride",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "971",
+        "shortLabel": "Copolymers of vinyl chloride and vinyl acetate",
+        "longLabel": "Copolymers of vinyl chloride and vinyl acetate",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "972",
+        "shortLabel": "Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers",
+        "longLabel": "Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "973",
+        "shortLabel": "Polyvinyl acetate",
+        "longLabel": "Polyvinyl acetate",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "974",
+        "shortLabel": "Ion exchangers of the polymerization or copolymerization type",
+        "longLabel": "Ion exchangers of the polymerization or copolymerization type",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "975",
+        "shortLabel": "Other polymerization and copolymarization products",
+        "longLabel": "Other polymerization and copolymarization products",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "976",
+        "shortLabel": "Regenerated cellulose",
+        "longLabel": "Regenerated cellulose",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "977",
+        "shortLabel": "Cellulose nitrates",
+        "longLabel": "Cellulose nitrates",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "978",
+        "shortLabel": "Cellulose acetates",
+        "longLabel": "Cellulose acetates",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "979",
+        "shortLabel": "Other chemical derivatives of cellulose; vulcanized fibre",
+        "longLabel": "Other chemical derivatives of cellulose; vulcanized fibre",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "980",
+        "shortLabel": "Modified natural resins etc; derivatives of natural rubber",
+        "longLabel": "Modified natural resins etc; derivatives of natural rubber",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "981",
+        "shortLabel": "Other artificial plastic materials, nes",
+        "longLabel": "Other artificial plastic materials, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "982",
+        "shortLabel": "Insecticides, for sale by retail or as preparations",
+        "longLabel": "Insecticides, for sale by retail or as preparations",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "983",
+        "shortLabel": "Fungicides, for sale by retail or as preparation",
+        "longLabel": "Fungicides, for sale by retail or as preparation",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "984",
+        "shortLabel": "Herbicides, for sale by retail or as preparation",
+        "longLabel": "Herbicides, for sale by retail or as preparation",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "985",
+        "shortLabel": "Disinfectants, etc, for sale by retail or as preparation",
+        "longLabel": "Disinfectants, etc, for sale by retail or as preparation",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "986",
+        "shortLabel": "Starches, insulin and wheat gluten",
+        "longLabel": "Starches, insulin and wheat gluten",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "987",
+        "shortLabel": "Albuminoid substances; glues",
+        "longLabel": "Albuminoid substances; glues",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "988",
+        "shortLabel": "Woods and resin-based chemical products",
+        "longLabel": "Woods and resin-based chemical products",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "989",
+        "shortLabel": "Anti-knock preparation, anti-corrosive; viscosity improvers; etc",
+        "longLabel": "Anti-knock preparation, anti-corrosive; viscosity improvers; etc",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "990",
+        "shortLabel": "Organic chemical products, nes",
+        "longLabel": "Organic chemical products, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "991",
+        "shortLabel": "Chemical products and preparations, nes",
+        "longLabel": "Chemical products and preparations, nes",
+        "color": "rgb(197, 123, 217)"
+    },
+    {
+        "id": "992",
+        "shortLabel": "Composition leather, in slabs, sheets or rolls",
+        "longLabel": "Composition leather, in slabs, sheets or rolls",
+        "color": "#DA3329"
+    },
+    {
+        "id": "993",
+        "shortLabel": "Calf leather",
+        "longLabel": "Calf leather",
+        "color": "#DA3329"
+    },
+    {
+        "id": "994",
+        "shortLabel": "Leather of other bovine cattle and equine leather",
+        "longLabel": "Leather of other bovine cattle and equine leather",
+        "color": "#DA3329"
+    },
+    {
+        "id": "995",
+        "shortLabel": "Sheep and lamb skin leather",
+        "longLabel": "Sheep and lamb skin leather",
+        "color": "#DA3329"
+    },
+    {
+        "id": "996",
+        "shortLabel": "Leather of other hides or skins",
+        "longLabel": "Leather of other hides or skins",
+        "color": "#DA3329"
+    },
+    {
+        "id": "997",
+        "shortLabel": "Leather, specially dressed or finished, nes",
+        "longLabel": "Leather, specially dressed or finished, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "998",
+        "shortLabel": "Articles of leather use in machinery or mechanical appliances, etc",
+        "longLabel": "Articles of leather use in machinery or mechanical appliances, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "999",
+        "shortLabel": "Saddlery and harness, of any material, for any kind of animal",
+        "longLabel": "Saddlery and harness, of any material, for any kind of animal",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1000",
+        "shortLabel": "Parts of footwear of any material except metal and asbestos",
+        "longLabel": "Parts of footwear of any material except metal and asbestos",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1001",
+        "shortLabel": "Other articles of leather or of composition leather",
+        "longLabel": "Other articles of leather or of composition leather",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1002",
+        "shortLabel": "Furskins, tanned or dressed; pieces of furskin, tanned or dressed",
+        "longLabel": "Furskins, tanned or dressed; pieces of furskin, tanned or dressed",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1003",
+        "shortLabel": "Materials of rubber",
+        "longLabel": "Materials of rubber",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1004",
+        "shortLabel": "Tires, pneumatic, new, for motor cars",
+        "longLabel": "Tires, pneumatic, new, for motor cars",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1005",
+        "shortLabel": "Tires, pneumatic, new, for buses and lorries",
+        "longLabel": "Tires, pneumatic, new, for buses and lorries",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1006",
+        "shortLabel": "Tires, pneumatic, new, for aircraft",
+        "longLabel": "Tires, pneumatic, new, for aircraft",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1007",
+        "shortLabel": "Tires, pneumatic, new, for motorcycles and bicycles",
+        "longLabel": "Tires, pneumatic, new, for motorcycles and bicycles",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1008",
+        "shortLabel": "Other tires, tire cases, tire flaps and inner tubes, etc",
+        "longLabel": "Other tires, tire cases, tire flaps and inner tubes, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1009",
+        "shortLabel": "Hygienic, pharmaceutical articles of unhardened vulcanized rubber",
+        "longLabel": "Hygienic, pharmaceutical articles of unhardened vulcanized rubber",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1010",
+        "shortLabel": "Transmission, conveyor or elevator belts, of vulcanized rubber",
+        "longLabel": "Transmission, conveyor or elevator belts, of vulcanized rubber",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1011",
+        "shortLabel": "Other articles of rubber, nes",
+        "longLabel": "Other articles of rubber, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1012",
+        "shortLabel": "Cork manufactures",
+        "longLabel": "Cork manufactures",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1013",
+        "shortLabel": "Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness",
+        "longLabel": "Wood sawn lengthwise, veneer sheets etc, up to 5 mm in thickness",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1014",
+        "shortLabel": "Plywood consisting solely of sheets of wood",
+        "longLabel": "Plywood consisting solely of sheets of wood",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1015",
+        "shortLabel": "Improved wood and reconstituted wood",
+        "longLabel": "Improved wood and reconstituted wood",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1016",
+        "shortLabel": "Wood-based panels, nes",
+        "longLabel": "Wood-based panels, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1017",
+        "shortLabel": "Wood, simply shaped, nes",
+        "longLabel": "Wood, simply shaped, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1018",
+        "shortLabel": "Wood packing cases, boxes, cases, crates, etc, complete",
+        "longLabel": "Wood packing cases, boxes, cases, crates, etc, complete",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1019",
+        "shortLabel": "Casks, barrels; other coopers products and parts, including staves",
+        "longLabel": "Casks, barrels; other coopers products and parts, including staves",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1020",
+        "shortLabel": "Builders` carpentry and joinery (including prefabricated)",
+        "longLabel": "Builders` carpentry and joinery (including prefabricated)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1021",
+        "shortLabel": "Manufactures of wood for domestic or decorative use",
+        "longLabel": "Manufactures of wood for domestic or decorative use",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1022",
+        "shortLabel": "Manufactured articles of wood, nes",
+        "longLabel": "Manufactured articles of wood, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1023",
+        "shortLabel": "Newsprint",
+        "longLabel": "Newsprint",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1024",
+        "shortLabel": "Printing paper and writing paper, in rolls or sheets",
+        "longLabel": "Printing paper and writing paper, in rolls or sheets",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1025",
+        "shortLabel": "Kraft paper and paperboard, in rolls or sheets",
+        "longLabel": "Kraft paper and paperboard, in rolls or sheets",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1026",
+        "shortLabel": "Paper and paperboard, in rolls or sheets, nes",
+        "longLabel": "Paper and paperboard, in rolls or sheets, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1027",
+        "shortLabel": "Fibre building board of wood or other vegetable material",
+        "longLabel": "Fibre building board of wood or other vegetable material",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1028",
+        "shortLabel": "Paper and paperboard, creped, crinkled, etc, in rolls or sheets",
+        "longLabel": "Paper and paperboard, creped, crinkled, etc, in rolls or sheets",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1029",
+        "shortLabel": "Paper and paperboard, coated, impregnated, etc, in rolls or sheets",
+        "longLabel": "Paper and paperboard, coated, impregnated, etc, in rolls or sheets",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1030",
+        "shortLabel": "Converted paper and paperboard, nes",
+        "longLabel": "Converted paper and paperboard, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1031",
+        "shortLabel": "Packing containers, box files, etc, of paper, used in offices",
+        "longLabel": "Packing containers, box files, etc, of paper, used in offices",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1032",
+        "shortLabel": "Correspondence stationary",
+        "longLabel": "Correspondence stationary",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1033",
+        "shortLabel": "Registers, exercise books, file and book covers, etc, of paper",
+        "longLabel": "Registers, exercise books, file and book covers, etc, of paper",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1034",
+        "shortLabel": "Paper and paperboard cut to size or shape, nes",
+        "longLabel": "Paper and paperboard cut to size or shape, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1035",
+        "shortLabel": "Articles of paper pulp, paper, paperboard or cellulose wadding, nes",
+        "longLabel": "Articles of paper pulp, paper, paperboard or cellulose wadding, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1036",
+        "shortLabel": "Silk yarn and spun from noil or waste; silkworm gut",
+        "longLabel": "Silk yarn and spun from noil or waste; silkworm gut",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1037",
+        "shortLabel": "Yarn of wool or animal hair (including wool tops)",
+        "longLabel": "Yarn of wool or animal hair (including wool tops)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1038",
+        "shortLabel": "Cotton yarn",
+        "longLabel": "Cotton yarn",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1039",
+        "shortLabel": "Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc",
+        "longLabel": "Yarn 85% of synthetic fibres, not for retail; monofil, strip, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1040",
+        "shortLabel": "Yarn containing 85% or more of synthetic fibres, put up for retail",
+        "longLabel": "Yarn containing 85% or more of synthetic fibres, put up for retail",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1041",
+        "shortLabel": "Yarn containing less than 85% of discontinuous synthetic fibres",
+        "longLabel": "Yarn containing less than 85% of discontinuous synthetic fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1042",
+        "shortLabel": "Yarn of regenerated fibres, not for retail, monofil, strip, etc",
+        "longLabel": "Yarn of regenerated fibres, not for retail, monofil, strip, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1043",
+        "shortLabel": "Yarn of regenerated fibres, put up for retail sale",
+        "longLabel": "Yarn of regenerated fibres, put up for retail sale",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1044",
+        "shortLabel": "Yarn of textile fibres, nes",
+        "longLabel": "Yarn of textile fibres, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1045",
+        "shortLabel": "Cotton fabrics, woven, unbleached, not mercerized",
+        "longLabel": "Cotton fabrics, woven, unbleached, not mercerized",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1046",
+        "shortLabel": "Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished",
+        "longLabel": "Cotton fabrics, woven, bleached, dyed, etc, or otherwise finished",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1047",
+        "shortLabel": "Fabrics, woven, of continuous synthetic textile materials",
+        "longLabel": "Fabrics, woven, of continuous synthetic textile materials",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1048",
+        "shortLabel": "Fabrics, woven, 85% plus of discontinuous synthetic fibres",
+        "longLabel": "Fabrics, woven, 85% plus of discontinuous synthetic fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1049",
+        "shortLabel": "Fabrics, woven, less 85% of discontinuous synthetic fibres",
+        "longLabel": "Fabrics, woven, less 85% of discontinuous synthetic fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1050",
+        "shortLabel": "Fabric, woven of continuous regenerated textile materials",
+        "longLabel": "Fabric, woven of continuous regenerated textile materials",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1051",
+        "shortLabel": "Fabrics, woven, 85% plus of discontinuous regenerated fibres",
+        "longLabel": "Fabrics, woven, 85% plus of discontinuous regenerated fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1052",
+        "shortLabel": "Fabrics, woven, less 85% of discontinuous regenerated fibres",
+        "longLabel": "Fabrics, woven, less 85% of discontinuous regenerated fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1053",
+        "shortLabel": "Pile and chenille fabrics, woven, of man-made fibres",
+        "longLabel": "Pile and chenille fabrics, woven, of man-made fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1054",
+        "shortLabel": "Fabrics, woven, of silk, of noil or other waste silk",
+        "longLabel": "Fabrics, woven, of silk, of noil or other waste silk",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1055",
+        "shortLabel": "Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair",
+        "longLabel": "Fabrics, woven, 85% plus of sheep's or lambs' wool or of fine hair",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1056",
+        "shortLabel": "Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes",
+        "longLabel": "Fabrics, woven, of sheep's or lambs' wool or of fine hair, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1057",
+        "shortLabel": "Fabrics, woven, of flax or of ramie",
+        "longLabel": "Fabrics, woven, of flax or of ramie",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1058",
+        "shortLabel": "Fabrics, woven of jute or other textile bast fibres of heading 2640",
+        "longLabel": "Fabrics, woven of jute or other textile bast fibres of heading 2640",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1059",
+        "shortLabel": "Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)",
+        "longLabel": "Fabrics of glass fibre (including narrow, pile fabrics, lace, etc)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1060",
+        "shortLabel": "Fabrics, woven, nes",
+        "longLabel": "Fabrics, woven, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1061",
+        "shortLabel": "Knitted etc, not elastic nor rubberized, of synthetic fibres",
+        "longLabel": "Knitted etc, not elastic nor rubberized, of synthetic fibres",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1062",
+        "shortLabel": "Knitted, not elastic nor rubberized, of fibres other than synthetic",
+        "longLabel": "Knitted, not elastic nor rubberized, of fibres other than synthetic",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1063",
+        "shortLabel": "Knitted or crocheted fabrics, elastic or rubberized",
+        "longLabel": "Knitted or crocheted fabrics, elastic or rubberized",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1064",
+        "shortLabel": "Tulle, lace, embroidery, ribbons, trimmings and other small wares",
+        "longLabel": "Tulle, lace, embroidery, ribbons, trimmings and other small wares",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1065",
+        "shortLabel": "Felt, articles of felt, nes, whether or not impregnated or coated",
+        "longLabel": "Felt, articles of felt, nes, whether or not impregnated or coated",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1066",
+        "shortLabel": "Bonded fibre fabrics, etc, whether or not impregnated or coated",
+        "longLabel": "Bonded fibre fabrics, etc, whether or not impregnated or coated",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1067",
+        "shortLabel": "Coated or impregnated textile fabrics and products, nes",
+        "longLabel": "Coated or impregnated textile fabrics and products, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1068",
+        "shortLabel": "Elastic fabrics and trimming (not knitted or crocheted)",
+        "longLabel": "Elastic fabrics and trimming (not knitted or crocheted)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1069",
+        "shortLabel": "Twine, cordage, ropes and cables and manufactures thereof",
+        "longLabel": "Twine, cordage, ropes and cables and manufactures thereof",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1070",
+        "shortLabel": "Hat shapes, hat-forms, hat bodies and hoods",
+        "longLabel": "Hat shapes, hat-forms, hat bodies and hoods",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1071",
+        "shortLabel": "Wadding, wicks and textiles fabrics for use in machinery or plant",
+        "longLabel": "Wadding, wicks and textiles fabrics for use in machinery or plant",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1072",
+        "shortLabel": "Special products of textile materials",
+        "longLabel": "Special products of textile materials",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1073",
+        "shortLabel": "Bags, sacks of textile materials, for the packing of goods",
+        "longLabel": "Bags, sacks of textile materials, for the packing of goods",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1074",
+        "shortLabel": "Tarpaulins, sails, tents, camping goods, etc, of textile fabrics",
+        "longLabel": "Tarpaulins, sails, tents, camping goods, etc, of textile fabrics",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1075",
+        "shortLabel": "Travelling rugs, blankets (non electric), not knitted or crocheted",
+        "longLabel": "Travelling rugs, blankets (non electric), not knitted or crocheted",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1076",
+        "shortLabel": "Linens and furnishing articles of textile, not knitted or crocheted",
+        "longLabel": "Linens and furnishing articles of textile, not knitted or crocheted",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1077",
+        "shortLabel": "Other made-up articles of textile materials, nes",
+        "longLabel": "Other made-up articles of textile materials, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1078",
+        "shortLabel": "Linoleum and similar floor covering",
+        "longLabel": "Linoleum and similar floor covering",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1079",
+        "shortLabel": "Carpets, carpeting and rugs, knotted",
+        "longLabel": "Carpets, carpeting and rugs, knotted",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1080",
+        "shortLabel": "Kelem, Schumacks and Karamanie rugs and the like",
+        "longLabel": "Kelem, Schumacks and Karamanie rugs and the like",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1081",
+        "shortLabel": "Carpets, rugs, mats, of wool or fine animal hair",
+        "longLabel": "Carpets, rugs, mats, of wool or fine animal hair",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1082",
+        "shortLabel": "Carpets, rugs, mats, of man-made textile materials, nes",
+        "longLabel": "Carpets, rugs, mats, of man-made textile materials, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1083",
+        "shortLabel": "Carpets, rugs, mats, of other textile materials, nes",
+        "longLabel": "Carpets, rugs, mats, of other textile materials, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1084",
+        "shortLabel": "Plaits, plaited products for all uses; straw envelopes for bottles",
+        "longLabel": "Plaits, plaited products for all uses; straw envelopes for bottles",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1085",
+        "shortLabel": "Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)",
+        "longLabel": "Lime, quick, slaked and hydraulic (no calcium oxide or hydroxide)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1086",
+        "shortLabel": "Cement",
+        "longLabel": "Cement",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1087",
+        "shortLabel": "Building and monumental stone, worked, and articles thereof",
+        "longLabel": "Building and monumental stone, worked, and articles thereof",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1088",
+        "shortLabel": "Construction materials, of asbestos-cement or fibre-cements, etc",
+        "longLabel": "Construction materials, of asbestos-cement or fibre-cements, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1089",
+        "shortLabel": "Refractory bricks and other refractory construction materials",
+        "longLabel": "Refractory bricks and other refractory construction materials",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1090",
+        "shortLabel": "Non-refractory ceramic bricks, tiles, pipes and similar products",
+        "longLabel": "Non-refractory ceramic bricks, tiles, pipes and similar products",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1091",
+        "shortLabel": "Hand polishing stone, grindstones, grinding wheels, etc",
+        "longLabel": "Hand polishing stone, grindstones, grinding wheels, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1092",
+        "shortLabel": "Abrasive power or grain, on a base of woven fabrics",
+        "longLabel": "Abrasive power or grain, on a base of woven fabrics",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1093",
+        "shortLabel": "Manufactures of mineral materials, nes (other than ceramic)",
+        "longLabel": "Manufactures of mineral materials, nes (other than ceramic)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1094",
+        "shortLabel": "Wool; expanding or insulating mineral materials, nes",
+        "longLabel": "Wool; expanding or insulating mineral materials, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1095",
+        "shortLabel": "Refractory goods, nes",
+        "longLabel": "Refractory goods, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1096",
+        "shortLabel": "Manufactures of asbestos; friction materials",
+        "longLabel": "Manufactures of asbestos; friction materials",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1097",
+        "shortLabel": "Articles of ceramic materials, nes",
+        "longLabel": "Articles of ceramic materials, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1098",
+        "shortLabel": "Glass in the mass, in balls, rods or tubes (nonoptical); waste",
+        "longLabel": "Glass in the mass, in balls, rods or tubes (nonoptical); waste",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1099",
+        "shortLabel": "Optical glass and elements of optical glass (unworked)",
+        "longLabel": "Optical glass and elements of optical glass (unworked)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1100",
+        "shortLabel": "Drawn or blown glass (flashed glass), unworked, in rectangles",
+        "longLabel": "Drawn or blown glass (flashed glass), unworked, in rectangles",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1101",
+        "shortLabel": "Glass, cast, rolled, etc, surface-ground, but no further worked",
+        "longLabel": "Glass, cast, rolled, etc, surface-ground, but no further worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1102",
+        "shortLabel": "Cast, rolled glass (flashed or wired), unworked, in rectangles",
+        "longLabel": "Cast, rolled glass (flashed or wired), unworked, in rectangles",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1103",
+        "shortLabel": "Bricks, tiles, etc of pressed or moulded glass, used in building",
+        "longLabel": "Bricks, tiles, etc of pressed or moulded glass, used in building",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1104",
+        "shortLabel": "Safety glass consisting of toughened or laminated glass, cut or not",
+        "longLabel": "Safety glass consisting of toughened or laminated glass, cut or not",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1105",
+        "shortLabel": "Glass mirror, unframed, framed or backed",
+        "longLabel": "Glass mirror, unframed, framed or backed",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1106",
+        "shortLabel": "Glass, nes",
+        "longLabel": "Glass, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1107",
+        "shortLabel": "Bottles etc of glass",
+        "longLabel": "Bottles etc of glass",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1108",
+        "shortLabel": "Glassware (other than heading 66582), for indoor decoration",
+        "longLabel": "Glassware (other than heading 66582), for indoor decoration",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1109",
+        "shortLabel": "Articles made of glass, nes",
+        "longLabel": "Articles made of glass, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1110",
+        "shortLabel": "Porcelain or china house ware",
+        "longLabel": "Porcelain or china house ware",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1111",
+        "shortLabel": "Articles of domestic or toilet purposes, of other kind of pottery",
+        "longLabel": "Articles of domestic or toilet purposes, of other kind of pottery",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1112",
+        "shortLabel": "Ornaments, personal articles of porcelain, china, or ceramic, nes",
+        "longLabel": "Ornaments, personal articles of porcelain, china, or ceramic, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1113",
+        "shortLabel": "Pearls, not mounted, set or strung",
+        "longLabel": "Pearls, not mounted, set or strung",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1114",
+        "shortLabel": "Diamonds (non-industrial), not mounted or set",
+        "longLabel": "Diamonds (non-industrial), not mounted or set",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1115",
+        "shortLabel": "Precious and semi-precious stones, not mounted, set or strung",
+        "longLabel": "Precious and semi-precious stones, not mounted, set or strung",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1116",
+        "shortLabel": "Synthetic or reconstructed precious or semi-precious stones",
+        "longLabel": "Synthetic or reconstructed precious or semi-precious stones",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1117",
+        "shortLabel": "Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc",
+        "longLabel": "Pig iron, cast iron, spiegeleisen, in pigs, blocks, lumps, etc",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1118",
+        "shortLabel": "Iron and steel powders, shot or sponge",
+        "longLabel": "Iron and steel powders, shot or sponge",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1119",
+        "shortLabel": "Ferro-alloys",
+        "longLabel": "Ferro-alloys",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1120",
+        "shortLabel": "Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel",
+        "longLabel": "Puddled bars, pilings; ingots, blocks, lumps, etc, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1121",
+        "shortLabel": "Blooms, billets, slabs and sheet bars, of iron or steel",
+        "longLabel": "Blooms, billets, slabs and sheet bars, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1122",
+        "shortLabel": "Iron or steel coils for re-rolling",
+        "longLabel": "Iron or steel coils for re-rolling",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1123",
+        "shortLabel": "Wire rod of iron or steel",
+        "longLabel": "Wire rod of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1124",
+        "shortLabel": "Bars, rods (not wire rod), from iron or steel; hollow mining drill",
+        "longLabel": "Bars, rods (not wire rod), from iron or steel; hollow mining drill",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1125",
+        "shortLabel": "Angles, shapes, sections and sheet piling, of iron or steel",
+        "longLabel": "Angles, shapes, sections and sheet piling, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1126",
+        "shortLabel": "Universal plates of iron or steel",
+        "longLabel": "Universal plates of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1127",
+        "shortLabel": "Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel",
+        "longLabel": "Sheet, plates, rolled of thickness 4,75mm plus, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1128",
+        "shortLabel": "Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel",
+        "longLabel": "Sheet, plates, rolled of thickness 3mm to 4,75mm, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1129",
+        "shortLabel": "Sheet, plates, rolled of thickness less 3mm, of iron or steel",
+        "longLabel": "Sheet, plates, rolled of thickness less 3mm, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1130",
+        "shortLabel": "Tinned sheets, plates of steel (not of high carbon or alloy steel)",
+        "longLabel": "Tinned sheets, plates of steel (not of high carbon or alloy steel)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1131",
+        "shortLabel": "Other sheet and plates, of iron or steel, worked",
+        "longLabel": "Other sheet and plates, of iron or steel, worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1132",
+        "shortLabel": "Hoop and strip of iron or steel, hot-rolled or cold-rolled",
+        "longLabel": "Hoop and strip of iron or steel, hot-rolled or cold-rolled",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1133",
+        "shortLabel": "Rails and railway track construction materials, of iron or steel",
+        "longLabel": "Rails and railway track construction materials, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1134",
+        "shortLabel": "Iron or steel wire (excluding wire rod), not insulated",
+        "longLabel": "Iron or steel wire (excluding wire rod), not insulated",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1135",
+        "shortLabel": "Tubes and pipes, of cast iron",
+        "longLabel": "Tubes and pipes, of cast iron",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1136",
+        "shortLabel": "Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel",
+        "longLabel": "Seamless tubes, pipes; blanks for tubes and pipes, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1137",
+        "shortLabel": "Other tubes and pipes, of iron or steel",
+        "longLabel": "Other tubes and pipes, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1138",
+        "shortLabel": "High-pressure hydro-electric conduit of steel",
+        "longLabel": "High-pressure hydro-electric conduit of steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1139",
+        "shortLabel": "Tube and pipes fittings, of iron or steel",
+        "longLabel": "Tube and pipes fittings, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1140",
+        "shortLabel": "Steel and iron forging and stampings, in the rough state",
+        "longLabel": "Steel and iron forging and stampings, in the rough state",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1141",
+        "shortLabel": "Castings of iron or steel, in rough state",
+        "longLabel": "Castings of iron or steel, in rough state",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1142",
+        "shortLabel": "Silver, unwrought, unworked, or semi-manufactured",
+        "longLabel": "Silver, unwrought, unworked, or semi-manufactured",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1143",
+        "shortLabel": "Metals of platinum group, unwrought, unworked, or semi-manufactured",
+        "longLabel": "Metals of platinum group, unwrought, unworked, or semi-manufactured",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1144",
+        "shortLabel": "Copper and copper alloys, refined or not, unwrought",
+        "longLabel": "Copper and copper alloys, refined or not, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1145",
+        "shortLabel": "Copper and copper alloys, worked",
+        "longLabel": "Copper and copper alloys, worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1146",
+        "shortLabel": "Nickel and nickel alloys, unwrought",
+        "longLabel": "Nickel and nickel alloys, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1147",
+        "shortLabel": "Nickel and nickel alloys, worked",
+        "longLabel": "Nickel and nickel alloys, worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1148",
+        "shortLabel": "Aluminium and aluminium alloys, unwrought",
+        "longLabel": "Aluminium and aluminium alloys, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1149",
+        "shortLabel": "Aluminium and aluminium alloys, worked",
+        "longLabel": "Aluminium and aluminium alloys, worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1150",
+        "shortLabel": "Lead, and lead alloys, unwrought",
+        "longLabel": "Lead, and lead alloys, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1151",
+        "shortLabel": "Lead and lead alloys, worked",
+        "longLabel": "Lead and lead alloys, worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1152",
+        "shortLabel": "Zinc and zinc alloys, unwrought",
+        "longLabel": "Zinc and zinc alloys, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1153",
+        "shortLabel": "Zinc and zinc alloys worked",
+        "longLabel": "Zinc and zinc alloys worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1154",
+        "shortLabel": "Tin and tin alloys, unwrought",
+        "longLabel": "Tin and tin alloys, unwrought",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1155",
+        "shortLabel": "Tin and tin alloys worked",
+        "longLabel": "Tin and tin alloys worked",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1156",
+        "shortLabel": "Uranium depleted in U235, thorium, and alloys, nes; waste and scrap",
+        "longLabel": "Uranium depleted in U235, thorium, and alloys, nes; waste and scrap",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1157",
+        "shortLabel": "Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap",
+        "longLabel": "Tungsten, molybdenum, tantalum, magnesium, unwrought; waste, scrap",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1158",
+        "shortLabel": "Base metals, nes and cermets, unwrought (including waste and scrap)",
+        "longLabel": "Base metals, nes and cermets, unwrought (including waste and scrap)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1159",
+        "shortLabel": "Structures and parts of, of iron, steel; plates, rods, and the like",
+        "longLabel": "Structures and parts of, of iron, steel; plates, rods, and the like",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1160",
+        "shortLabel": "Structures and parts of, of aluminium; plates, rods, and the like",
+        "longLabel": "Structures and parts of, of aluminium; plates, rods, and the like",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1161",
+        "shortLabel": "Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus",
+        "longLabel": "Iron, steel, aluminium reservoirs, tanks, etc, capacity 300 lt plus",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1162",
+        "shortLabel": "Cask, drums, etc, of iron, steel, aluminium, for packing goods",
+        "longLabel": "Cask, drums, etc, of iron, steel, aluminium, for packing goods",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1163",
+        "shortLabel": "Wire, cables, cordage, ropes, plaited bans, sling and the like",
+        "longLabel": "Wire, cables, cordage, ropes, plaited bans, sling and the like",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1164",
+        "shortLabel": "Barbed iron or steel wire: fencing wire",
+        "longLabel": "Barbed iron or steel wire: fencing wire",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1165",
+        "shortLabel": "Gauze, cloth, grill, netting, reinforced fabric and the like",
+        "longLabel": "Gauze, cloth, grill, netting, reinforced fabric and the like",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1166",
+        "shortLabel": "Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper",
+        "longLabel": "Nails, screws, nuts, bolts, rivets, etc, of iron, steel or copper",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1167",
+        "shortLabel": "Hand tools, used in agriculture, horticulture or forestry",
+        "longLabel": "Hand tools, used in agriculture, horticulture or forestry",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1168",
+        "shortLabel": "Other hand tools",
+        "longLabel": "Other hand tools",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1169",
+        "shortLabel": "Interchangeable tools for hand or machine tools (tips, blades, etc)",
+        "longLabel": "Interchangeable tools for hand or machine tools (tips, blades, etc)",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1170",
+        "shortLabel": "Cutlery",
+        "longLabel": "Cutlery",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1171",
+        "shortLabel": "Domestic, non-electric, heating, cooking apparatus, and parts, nes",
+        "longLabel": "Domestic, non-electric, heating, cooking apparatus, and parts, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1172",
+        "shortLabel": "Base metal domestic articles, nes, and parts thereof, nes",
+        "longLabel": "Base metal domestic articles, nes, and parts thereof, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1173",
+        "shortLabel": "Base metal indoors sanitary ware, and parts thereof, nes",
+        "longLabel": "Base metal indoors sanitary ware, and parts thereof, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1174",
+        "shortLabel": "Household appliances, decorative article, etc, of base metal, nes",
+        "longLabel": "Household appliances, decorative article, etc, of base metal, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1175",
+        "shortLabel": "Locksmiths wares, safes, etc, and hardware, nes, of base metal",
+        "longLabel": "Locksmiths wares, safes, etc, and hardware, nes, of base metal",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1176",
+        "shortLabel": "Chain and parts thereof, of iron or steel",
+        "longLabel": "Chain and parts thereof, of iron or steel",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1177",
+        "shortLabel": "Pins, needles, etc, of iron, steel; metal fittings for clothing",
+        "longLabel": "Pins, needles, etc, of iron, steel; metal fittings for clothing",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1178",
+        "shortLabel": "Springs and leaves for springs, of iron, steel or copper",
+        "longLabel": "Springs and leaves for springs, of iron, steel or copper",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1179",
+        "shortLabel": "Miscellaneous articles of base metal",
+        "longLabel": "Miscellaneous articles of base metal",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1180",
+        "shortLabel": "Articles of iron or steel, nes",
+        "longLabel": "Articles of iron or steel, nes",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1181",
+        "shortLabel": "Articles, nes, of copper, nickel, aluminium, lead, zinc and tin",
+        "longLabel": "Articles, nes, of copper, nickel, aluminium, lead, zinc and tin",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1182",
+        "shortLabel": "Other base metal manufactures, nes; and of cermets",
+        "longLabel": "Other base metal manufactures, nes; and of cermets",
+        "color": "#DA3329"
+    },
+    {
+        "id": "1183",
+        "shortLabel": "Steam and other vapour-generated boilers; super-heated water boiler",
+        "longLabel": "Steam and other vapour-generated boilers; super-heated water boiler",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1184",
+        "shortLabel": "Auxiliary plant for boilers of heading 7111; condensers",
+        "longLabel": "Auxiliary plant for boilers of heading 7111; condensers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1185",
+        "shortLabel": "Parts, nes of boilers and auxiliary plant of headings 7111 and 7112",
+        "longLabel": "Parts, nes of boilers and auxiliary plant of headings 7111 and 7112",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1186",
+        "shortLabel": "Steam power units (mobile engines but not steam tractors, etc)",
+        "longLabel": "Steam power units (mobile engines but not steam tractors, etc)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1187",
+        "shortLabel": "Parts, nes of steam power units",
+        "longLabel": "Parts, nes of steam power units",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1188",
+        "shortLabel": "Internal combustion piston engines, for aircraft, and parts, nes",
+        "longLabel": "Internal combustion piston engines, for aircraft, and parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1189",
+        "shortLabel": "Motor vehicles piston engines, headings: 722; 78; 74411 and 95101",
+        "longLabel": "Motor vehicles piston engines, headings: 722; 78; 74411 and 95101",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1190",
+        "shortLabel": "Internal combustion piston engines, marine propulsion",
+        "longLabel": "Internal combustion piston engines, marine propulsion",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1191",
+        "shortLabel": "Internal combustion piston engines, nes",
+        "longLabel": "Internal combustion piston engines, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1192",
+        "shortLabel": "Piston engines parts, nes, falling in headings: 7132, 7133 and 7138",
+        "longLabel": "Piston engines parts, nes, falling in headings: 7132, 7133 and 7138",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1193",
+        "shortLabel": "Reaction engines",
+        "longLabel": "Reaction engines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1194",
+        "shortLabel": "Gas turbines, nes",
+        "longLabel": "Gas turbines, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1195",
+        "shortLabel": "Parts, nes of the engines and motors of group 714 and item 71888",
+        "longLabel": "Parts, nes of the engines and motors of group 714 and item 71888",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1196",
+        "shortLabel": "Motors and generators, direct current",
+        "longLabel": "Motors and generators, direct current",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1197",
+        "shortLabel": "Electric motors, generators (not direct current); generating sets",
+        "longLabel": "Electric motors, generators (not direct current); generating sets",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1198",
+        "shortLabel": "Rotary converters",
+        "longLabel": "Rotary converters",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1199",
+        "shortLabel": "Parts, nes, of rotating electric plant",
+        "longLabel": "Parts, nes, of rotating electric plant",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1200",
+        "shortLabel": "Nuclear reactors, and parts thereof, nes",
+        "longLabel": "Nuclear reactors, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1201",
+        "shortLabel": "Engines and motors, nes (wind, hot air engines, water wheel, etc)",
+        "longLabel": "Engines and motors, nes (wind, hot air engines, water wheel, etc)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1202",
+        "shortLabel": "Agricultural and horticultural machinery for soil preparation, etc",
+        "longLabel": "Agricultural and horticultural machinery for soil preparation, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1203",
+        "shortLabel": "Harvesting and threshing machines; fodder presses, etc; parts nes",
+        "longLabel": "Harvesting and threshing machines; fodder presses, etc; parts nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1204",
+        "shortLabel": "Dairy machinery, nes (including milking machines), and parts nes",
+        "longLabel": "Dairy machinery, nes (including milking machines), and parts nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1205",
+        "shortLabel": "Agricultural machinery and appliances, nes, and parts thereof, nes",
+        "longLabel": "Agricultural machinery and appliances, nes, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1206",
+        "shortLabel": "Track-laying tractors",
+        "longLabel": "Track-laying tractors",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1207",
+        "shortLabel": "Wheeled tractors (other than those falling in heading 74411, 7832)",
+        "longLabel": "Wheeled tractors (other than those falling in heading 74411, 7832)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1208",
+        "shortLabel": "Road rollers, mechanically propelled",
+        "longLabel": "Road rollers, mechanically propelled",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1209",
+        "shortLabel": "Construction and mining machinery, nes",
+        "longLabel": "Construction and mining machinery, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1210",
+        "shortLabel": "Parts, nes of machinery and equipment of headings 72341 to 72346",
+        "longLabel": "Parts, nes of machinery and equipment of headings 72341 to 72346",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1211",
+        "shortLabel": "Sewing machines, furniture, needles etc, and parts thereof, nes",
+        "longLabel": "Sewing machines, furniture, needles etc, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1212",
+        "shortLabel": "Machines for extruding man-made textile; other textile machinery",
+        "longLabel": "Machines for extruding man-made textile; other textile machinery",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1213",
+        "shortLabel": "Weaving, knitting, etc, machines, machines for preparing yarns, etc",
+        "longLabel": "Weaving, knitting, etc, machines, machines for preparing yarns, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1214",
+        "shortLabel": "Auxiliary machinery for use with those of headings 72451 to 72453",
+        "longLabel": "Auxiliary machinery for use with those of headings 72451 to 72453",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1215",
+        "shortLabel": "Textile machinery, nes for cleaning, cutting, etc, and parts nes",
+        "longLabel": "Textile machinery, nes for cleaning, cutting, etc, and parts nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1216",
+        "shortLabel": "Machinery for preparing, tanning, working leather, etc; parts nes",
+        "longLabel": "Machinery for preparing, tanning, working leather, etc; parts nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1217",
+        "shortLabel": "Machinery for making, finishing cellulose pulp, paper or paperboard",
+        "longLabel": "Machinery for making, finishing cellulose pulp, paper or paperboard",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1218",
+        "shortLabel": "Machinery for making paper pulp, paper, paperboard; cutting machines",
+        "longLabel": "Machinery for making paper pulp, paper, paperboard; cutting machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1219",
+        "shortLabel": "Parts, nes of the machines falling within heading 725",
+        "longLabel": "Parts, nes of the machines falling within heading 725",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1220",
+        "shortLabel": "Machinery, accessories for type-setting, for printing blocks, etc",
+        "longLabel": "Machinery, accessories for type-setting, for printing blocks, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1221",
+        "shortLabel": "Printing presses",
+        "longLabel": "Printing presses",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1222",
+        "shortLabel": "Other printing machinery; machines for uses ancilliary to printing",
+        "longLabel": "Other printing machinery; machines for uses ancilliary to printing",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1223",
+        "shortLabel": "Bookbinding machinery; parts thereof, nes",
+        "longLabel": "Bookbinding machinery; parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1224",
+        "shortLabel": "Parts, nes of machines falling within headings 72631, 7264, 7267",
+        "longLabel": "Parts, nes of machines falling within headings 72631, 7264, 7267",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1225",
+        "shortLabel": "Machinery for the grain milling industry; working cereals, parts",
+        "longLabel": "Machinery for the grain milling industry; working cereals, parts",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1226",
+        "shortLabel": "Other food-processing machinery and parts thereof, nes",
+        "longLabel": "Other food-processing machinery and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1227",
+        "shortLabel": "Machine-tools for specialized industries; parts or accessories, nes",
+        "longLabel": "Machine-tools for specialized industries; parts or accessories, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1228",
+        "shortLabel": "Other mineral working machinery; and parts thereof, nes",
+        "longLabel": "Other mineral working machinery; and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1229",
+        "shortLabel": "Machinery for specialized industries and parts thereof, nes",
+        "longLabel": "Machinery for specialized industries and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1230",
+        "shortLabel": "Metal cutting machine-tools",
+        "longLabel": "Metal cutting machine-tools",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1231",
+        "shortLabel": "Metal forming machine-tool",
+        "longLabel": "Metal forming machine-tool",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1232",
+        "shortLabel": "Other machines-tools for working metal or metal carbides, nes",
+        "longLabel": "Other machines-tools for working metal or metal carbides, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1233",
+        "shortLabel": "Work holders, dividing heads for machine-tools, etc; tool holders",
+        "longLabel": "Work holders, dividing heads for machine-tools, etc; tool holders",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1234",
+        "shortLabel": "Parts, nes of and accessories for machine-tools of heading 736",
+        "longLabel": "Parts, nes of and accessories for machine-tools of heading 736",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1235",
+        "shortLabel": "Metallurgy and metal foundry equipment, and parts thereof, nes",
+        "longLabel": "Metallurgy and metal foundry equipment, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1236",
+        "shortLabel": "Rolling mills, rolls therefor, and parts, nes of rolling mills",
+        "longLabel": "Rolling mills, rolls therefor, and parts, nes of rolling mills",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1237",
+        "shortLabel": "Welding, brazing, cutting, etc machines and appliances, parts, nes",
+        "longLabel": "Welding, brazing, cutting, etc machines and appliances, parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1238",
+        "shortLabel": "Gas generators, and parts, nes of gas generators",
+        "longLabel": "Gas generators, and parts, nes of gas generators",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1239",
+        "shortLabel": "Furnace burners; mechanical stokers, etc, and parts thereof, nes",
+        "longLabel": "Furnace burners; mechanical stokers, etc, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1240",
+        "shortLabel": "Industrial and laboratory furnaces and ovens, etc, parts, nes",
+        "longLabel": "Industrial and laboratory furnaces and ovens, etc, parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1241",
+        "shortLabel": "Non-domestic refrigerators and refrigerating equipment, parts, nes",
+        "longLabel": "Non-domestic refrigerators and refrigerating equipment, parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1242",
+        "shortLabel": "Air conditioning machines and parts thereof, nes",
+        "longLabel": "Air conditioning machines and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1243",
+        "shortLabel": "Machinery, plant, laboratory equipment for heating and cooling, nes",
+        "longLabel": "Machinery, plant, laboratory equipment for heating and cooling, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1244",
+        "shortLabel": "Reciprocating pumps (other than those of heading 74281)",
+        "longLabel": "Reciprocating pumps (other than those of heading 74281)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1245",
+        "shortLabel": "Centrifugal pumps (other than those of heading 74281)",
+        "longLabel": "Centrifugal pumps (other than those of heading 74281)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1246",
+        "shortLabel": "Rotary pumps (other than those of heading 74281)",
+        "longLabel": "Rotary pumps (other than those of heading 74281)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1247",
+        "shortLabel": "Other pumps for liquids and liquid elevators",
+        "longLabel": "Other pumps for liquids and liquid elevators",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1248",
+        "shortLabel": "Parts, nes of pumps and liquids elevators falling in heading 742",
+        "longLabel": "Parts, nes of pumps and liquids elevators falling in heading 742",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1249",
+        "shortLabel": "Air pumps, vacuum pumps and air or gas compressors",
+        "longLabel": "Air pumps, vacuum pumps and air or gas compressors",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1250",
+        "shortLabel": "Parts, nes of the pumps and compressor falling within heading 7431",
+        "longLabel": "Parts, nes of the pumps and compressor falling within heading 7431",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1251",
+        "shortLabel": "Free-piston generators for gas turbines and parts thereof, nes",
+        "longLabel": "Free-piston generators for gas turbines and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1252",
+        "shortLabel": "Fans, blowers and the like, and parts thereof, nes",
+        "longLabel": "Fans, blowers and the like, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1253",
+        "shortLabel": "Centrifuges",
+        "longLabel": "Centrifuges",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1254",
+        "shortLabel": "Filtering and purifying machinery, apparatus for liquids and gases",
+        "longLabel": "Filtering and purifying machinery, apparatus for liquids and gases",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1255",
+        "shortLabel": "Parts, nes of the machines falling within headings 7435 and 7436",
+        "longLabel": "Parts, nes of the machines falling within headings 7435 and 7436",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1256",
+        "shortLabel": "Work trucks, of the type use in factories, dock areas, etc",
+        "longLabel": "Work trucks, of the type use in factories, dock areas, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1257",
+        "shortLabel": "Lifting, handling, loading machinery, telphers and conveyors",
+        "longLabel": "Lifting, handling, loading machinery, telphers and conveyors",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1258",
+        "shortLabel": "Parts, nes of the machinery falling within heading 7442",
+        "longLabel": "Parts, nes of the machinery falling within heading 7442",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1259",
+        "shortLabel": "Power hand tools, pneumatic or non-electric, and parts thereof, nes",
+        "longLabel": "Power hand tools, pneumatic or non-electric, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1260",
+        "shortLabel": "Other non-electrical machines and parts thereof, nes",
+        "longLabel": "Other non-electrical machines and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1261",
+        "shortLabel": "Ball, roller or needle roller bearings",
+        "longLabel": "Ball, roller or needle roller bearings",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1262",
+        "shortLabel": "Cocks, valves and similar appliances, for pipes boiler shells, etc",
+        "longLabel": "Cocks, valves and similar appliances, for pipes boiler shells, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1263",
+        "shortLabel": "Shaft, crank, bearing housing, pulley and pulley blocks, etc",
+        "longLabel": "Shaft, crank, bearing housing, pulley and pulley blocks, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1264",
+        "shortLabel": "Other non-electric parts and accessories of machinery, nes",
+        "longLabel": "Other non-electric parts and accessories of machinery, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1265",
+        "shortLabel": "Typewriters; cheque-writing machines",
+        "longLabel": "Typewriters; cheque-writing machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1266",
+        "shortLabel": "Calculating, accounting, cash registers, ticketing, etc, machines",
+        "longLabel": "Calculating, accounting, cash registers, ticketing, etc, machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1267",
+        "shortLabel": "Office machines, nes",
+        "longLabel": "Office machines, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1268",
+        "shortLabel": "Analogue and hybrid data processing machines",
+        "longLabel": "Analogue and hybrid data processing machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1269",
+        "shortLabel": "Complete digital data processing machines",
+        "longLabel": "Complete digital data processing machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1270",
+        "shortLabel": "Complete digital central processing units; digital processors",
+        "longLabel": "Complete digital central processing units; digital processors",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1271",
+        "shortLabel": "Digital central storage units, separately consigned",
+        "longLabel": "Digital central storage units, separately consigned",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1272",
+        "shortLabel": "Peripheral units, including control and adapting units",
+        "longLabel": "Peripheral units, including control and adapting units",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1273",
+        "shortLabel": "Off-line data processing equipment, nes",
+        "longLabel": "Off-line data processing equipment, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1274",
+        "shortLabel": "Parts, nes of and accessories for machines of headings 7511 or 7518",
+        "longLabel": "Parts, nes of and accessories for machines of headings 7511 or 7518",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1275",
+        "shortLabel": "Parts, nes of and accessories for machines of headings 7512 and 752",
+        "longLabel": "Parts, nes of and accessories for machines of headings 7512 and 752",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1276",
+        "shortLabel": "Television receivers, colour",
+        "longLabel": "Television receivers, colour",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1277",
+        "shortLabel": "Television receivers, monochrome",
+        "longLabel": "Television receivers, monochrome",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1278",
+        "shortLabel": "Radio receivers for motor-vehicles",
+        "longLabel": "Radio receivers for motor-vehicles",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1279",
+        "shortLabel": "Portable radio receivers",
+        "longLabel": "Portable radio receivers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1280",
+        "shortLabel": "Other radio receivers",
+        "longLabel": "Other radio receivers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1281",
+        "shortLabel": "Gramophones and record players, electric",
+        "longLabel": "Gramophones and record players, electric",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1282",
+        "shortLabel": "Other sound recording and reproducer, nes; video recorders",
+        "longLabel": "Other sound recording and reproducer, nes; video recorders",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1283",
+        "shortLabel": "Electrical line telephonic and telegraphic apparatus",
+        "longLabel": "Electrical line telephonic and telegraphic apparatus",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1284",
+        "shortLabel": "Microphones; loud-speakers; audio-frequency electric amplifiers",
+        "longLabel": "Microphones; loud-speakers; audio-frequency electric amplifiers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1285",
+        "shortLabel": "Television, radio-broadcasting; transmitters, etc",
+        "longLabel": "Television, radio-broadcasting; transmitters, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1286",
+        "shortLabel": "Telecommunications equipment, nes",
+        "longLabel": "Telecommunications equipment, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1287",
+        "shortLabel": "Parts, nes of and accessories for apparatus falling in heading 76",
+        "longLabel": "Parts, nes of and accessories for apparatus falling in heading 76",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1288",
+        "shortLabel": "Transformers, electrical",
+        "longLabel": "Transformers, electrical",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1289",
+        "shortLabel": "Other electric power machinery, parts, nes",
+        "longLabel": "Other electric power machinery, parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1290",
+        "shortLabel": "Switches, relays, fuses, etc; switchboards and control panels, nes",
+        "longLabel": "Switches, relays, fuses, etc; switchboards and control panels, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1291",
+        "shortLabel": "Printed circuits, and parts thereof, nes",
+        "longLabel": "Printed circuits, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1292",
+        "shortLabel": "Fixed, variable resistors, other than heating resistors, parts, nes",
+        "longLabel": "Fixed, variable resistors, other than heating resistors, parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1293",
+        "shortLabel": "Insulated electric wire, cable, bars, etc",
+        "longLabel": "Insulated electric wire, cable, bars, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1294",
+        "shortLabel": "Electrical insulating equipment",
+        "longLabel": "Electrical insulating equipment",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1295",
+        "shortLabel": "Electro-medical equipment",
+        "longLabel": "Electro-medical equipment",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1296",
+        "shortLabel": "X-ray apparatus and equipment; accessories; and parts, nes",
+        "longLabel": "X-ray apparatus and equipment; accessories; and parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1297",
+        "shortLabel": "Household laundry equipment, nes",
+        "longLabel": "Household laundry equipment, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1298",
+        "shortLabel": "Domestic refrigerators and freezers",
+        "longLabel": "Domestic refrigerators and freezers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1299",
+        "shortLabel": "Domestic dishwashing machines",
+        "longLabel": "Domestic dishwashing machines",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1300",
+        "shortLabel": "Electric shavers and hair clippers, parts thereof, nes",
+        "longLabel": "Electric shavers and hair clippers, parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1301",
+        "shortLabel": "Domestic electro-mechanical appliances; and parts thereof, nes",
+        "longLabel": "Domestic electro-mechanical appliances; and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1302",
+        "shortLabel": "Electro-thermic appliances, nes",
+        "longLabel": "Electro-thermic appliances, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1303",
+        "shortLabel": "Television picture tubes, cathode ray",
+        "longLabel": "Television picture tubes, cathode ray",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1304",
+        "shortLabel": "Other electronic valves and tubes",
+        "longLabel": "Other electronic valves and tubes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1305",
+        "shortLabel": "Diodes, transistors, photocells, etc",
+        "longLabel": "Diodes, transistors, photocells, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1306",
+        "shortLabel": "Electronic microcircuits",
+        "longLabel": "Electronic microcircuits",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1307",
+        "shortLabel": "Crystals, and parts, nes of electronic components of heading 776",
+        "longLabel": "Crystals, and parts, nes of electronic components of heading 776",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1308",
+        "shortLabel": "Batteries and electric accumulators, and parts thereof, nes",
+        "longLabel": "Batteries and electric accumulators, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1309",
+        "shortLabel": "Electric filament lamps and discharge lamps; arc-lamps",
+        "longLabel": "Electric filament lamps and discharge lamps; arc-lamps",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1310",
+        "shortLabel": "Automotive electrical equipment; and parts thereof, nes",
+        "longLabel": "Automotive electrical equipment; and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1311",
+        "shortLabel": "Electro-mechanical hand tools, and parts thereof, nes",
+        "longLabel": "Electro-mechanical hand tools, and parts thereof, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1312",
+        "shortLabel": "Other electrical machinery and equipment, nes",
+        "longLabel": "Other electrical machinery and equipment, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1313",
+        "shortLabel": "Passenger motor vehicles (excluding buses)",
+        "longLabel": "Passenger motor vehicles (excluding buses)",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1314",
+        "shortLabel": "Motor vehicles for the transport of goods or materials",
+        "longLabel": "Motor vehicles for the transport of goods or materials",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1315",
+        "shortLabel": "Special purpose motor lorries and vans",
+        "longLabel": "Special purpose motor lorries and vans",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1316",
+        "shortLabel": "Public service type passenger motor vehicles",
+        "longLabel": "Public service type passenger motor vehicles",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1317",
+        "shortLabel": "Road tractors for semi-trailers",
+        "longLabel": "Road tractors for semi-trailers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1318",
+        "shortLabel": "Chassis fitted with engines, for vehicles of headings 722, 781-783",
+        "longLabel": "Chassis fitted with engines, for vehicles of headings 722, 781-783",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1319",
+        "shortLabel": "Bodies, for vehicles of headings 722, 781-783",
+        "longLabel": "Bodies, for vehicles of headings 722, 781-783",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1320",
+        "shortLabel": "Other parts and accessories, for vehicles of headings 722, 781-783",
+        "longLabel": "Other parts and accessories, for vehicles of headings 722, 781-783",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1321",
+        "shortLabel": "Motorcycles, auto-cycles; side-cars of all kind, etc",
+        "longLabel": "Motorcycles, auto-cycles; side-cars of all kind, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1322",
+        "shortLabel": "Cycles, not motorized",
+        "longLabel": "Cycles, not motorized",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1323",
+        "shortLabel": "Invalid carriages; parts, nes of articles of heading 785",
+        "longLabel": "Invalid carriages; parts, nes of articles of heading 785",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1324",
+        "shortLabel": "Trailers and transports containers",
+        "longLabel": "Trailers and transports containers",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1325",
+        "shortLabel": "Other not mechanically propelled vehicles; and parts, nes",
+        "longLabel": "Other not mechanically propelled vehicles; and parts, nes",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1326",
+        "shortLabel": "Rail locomotives, electric",
+        "longLabel": "Rail locomotives, electric",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1327",
+        "shortLabel": "Other rail locomotives; tenders",
+        "longLabel": "Other rail locomotives; tenders",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1328",
+        "shortLabel": "Mechanically propelled railway, tramway, trolleys, etc",
+        "longLabel": "Mechanically propelled railway, tramway, trolleys, etc",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1329",
+        "shortLabel": "Railway, tramway passenger coaches, etc, not mechanically propelled",
+        "longLabel": "Railway, tramway passenger coaches, etc, not mechanically propelled",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1330",
+        "shortLabel": "Railway and tramway freight, etc, not mechanically propelled",
+        "longLabel": "Railway and tramway freight, etc, not mechanically propelled",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1331",
+        "shortLabel": "Railway track fixtures, and fittings, etc, parts nes of heading 791",
+        "longLabel": "Railway track fixtures, and fittings, etc, parts nes of heading 791",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1332",
+        "shortLabel": "Helicopters",
+        "longLabel": "Helicopters",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1333",
+        "shortLabel": "Aircraft of an unladen weight not exceeding 2000 kg",
+        "longLabel": "Aircraft of an unladen weight not exceeding 2000 kg",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1334",
+        "shortLabel": "Aircraft of an unladen weight from 2000 kg to 15000 kg",
+        "longLabel": "Aircraft of an unladen weight from 2000 kg to 15000 kg",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1335",
+        "shortLabel": "Aircraft of an unladen weight exceeding 15000 kg",
+        "longLabel": "Aircraft of an unladen weight exceeding 15000 kg",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1336",
+        "shortLabel": "Aircraft, nes and associated equipment",
+        "longLabel": "Aircraft, nes and associated equipment",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1337",
+        "shortLabel": "Parts, nes of the aircraft of heading 792",
+        "longLabel": "Parts, nes of the aircraft of heading 792",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1338",
+        "shortLabel": "Warships",
+        "longLabel": "Warships",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1339",
+        "shortLabel": "Ships, boats and other vessels",
+        "longLabel": "Ships, boats and other vessels",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1340",
+        "shortLabel": "Ships, boats and other vessels for breaking up",
+        "longLabel": "Ships, boats and other vessels for breaking up",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1341",
+        "shortLabel": "Tugs, special purpose vessels and floating structures",
+        "longLabel": "Tugs, special purpose vessels and floating structures",
+        "color": "rgb(123, 162, 217)"
+    },
+    {
+        "id": "1342",
+        "shortLabel": "Central heating equipment, not electrically heated, parts, nes",
+        "longLabel": "Central heating equipment, not electrically heated, parts, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1343",
+        "shortLabel": "Ceramic plumbing fixtures",
+        "longLabel": "Ceramic plumbing fixtures",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1344",
+        "shortLabel": "Lighting fixture and fittings, lamps, lanterns, and parts, nes",
+        "longLabel": "Lighting fixture and fittings, lamps, lanterns, and parts, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1345",
+        "shortLabel": "Chairs and other seats; and parts thereof, nes",
+        "longLabel": "Chairs and other seats; and parts thereof, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1346",
+        "shortLabel": "Furniture for medical, surgical, dental or veterinary practice",
+        "longLabel": "Furniture for medical, surgical, dental or veterinary practice",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1347",
+        "shortLabel": "Other furniture and parts thereof, nes",
+        "longLabel": "Other furniture and parts thereof, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1348",
+        "shortLabel": "Travel goods, handbags etc, of leather, plastics, textile, others",
+        "longLabel": "Travel goods, handbags etc, of leather, plastics, textile, others",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1349",
+        "shortLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats",
+        "longLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; overcoats and other coats",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1350",
+        "shortLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits",
+        "longLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; suits",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1351",
+        "shortLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like",
+        "longLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; trousers, breeches and the like",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1352",
+        "shortLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like",
+        "longLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; jackets, blazers and the like",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1353",
+        "shortLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments",
+        "longLabel": "Men's and boys' outerwear, textile fabrics not knitted or crocheted; other outer garments",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1354",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; coats and jackets",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1355",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; suits and costumes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1356",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; dresses",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1357",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; skirts",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1358",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; blouses",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1359",
+        "shortLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted",
+        "longLabel": "Womens, girls, infants outerwear, textile, not knitted or crocheted; other outer garments of textile fabrics, not knitted, crocheted",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1360",
+        "shortLabel": "Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts",
+        "longLabel": "Under garments of textile fabrics, not knitted or crocheted; mens and boys shirts",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1361",
+        "shortLabel": "Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts",
+        "longLabel": "Under garments of textile fabrics, not knitted or crocheted; mens, boys under garments; other than shirts",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1362",
+        "shortLabel": "Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc",
+        "longLabel": "Under garments of textile fabrics, not knitted or crocheted; womens, girls, infants under garments, textile, not knitted, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1363",
+        "shortLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc",
+        "longLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; jerseys, pullovers, slip-overs, cardigans, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1364",
+        "shortLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted",
+        "longLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; womens, girls, infants, suits, dresses, etc, knitted, crocheted",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1365",
+        "shortLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted",
+        "longLabel": "Outerwear knitted or crocheted, not elastic nor rubberized; other, clothing accessories, non-elastic, knitted or crocheted",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1366",
+        "shortLabel": "Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized",
+        "longLabel": "Under-garments, knitted or crocheted; of wool or fine animal hair, not elastic nor rubberized",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1367",
+        "shortLabel": "Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized",
+        "longLabel": "Under-garments, knitted or crocheted; of cotton, not elastic nor rubberized",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1368",
+        "shortLabel": "Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized",
+        "longLabel": "Under-garments, knitted or crocheted; of synthetic fibres not elastic nor rubberized",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1369",
+        "shortLabel": "Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized",
+        "longLabel": "Under-garments, knitted or crocheted; of other fibres, not elastic nor rubberized",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1370",
+        "shortLabel": "Corsets, garters, etc, not knitted or crocheted, elastic or not",
+        "longLabel": "Corsets, garters, etc, not knitted or crocheted, elastic or not",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1371",
+        "shortLabel": "Clothing accessories, of textile fabrics, not knitted or crocheted",
+        "longLabel": "Clothing accessories, of textile fabrics, not knitted or crocheted",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1372",
+        "shortLabel": "Clothing accessories, knitted or crocheted, nes",
+        "longLabel": "Clothing accessories, knitted or crocheted, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1373",
+        "shortLabel": "Articles of apparel, clothing accessories of leather",
+        "longLabel": "Articles of apparel, clothing accessories of leather",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1374",
+        "shortLabel": "Articles of apparel, clothing accessories of plastic or rubber",
+        "longLabel": "Articles of apparel, clothing accessories of plastic or rubber",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1375",
+        "shortLabel": "Fur clothing (not headgear) and other articles made of furskins",
+        "longLabel": "Fur clothing (not headgear) and other articles made of furskins",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1376",
+        "shortLabel": "Headgear and fitting thereof, nes",
+        "longLabel": "Headgear and fitting thereof, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1377",
+        "shortLabel": "Footwear",
+        "longLabel": "Footwear",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1378",
+        "shortLabel": "Optical instruments and apparatus",
+        "longLabel": "Optical instruments and apparatus",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1379",
+        "shortLabel": "Medical instruments and appliances, nes",
+        "longLabel": "Medical instruments and appliances, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1380",
+        "shortLabel": "Gas, liquid and electricity supply or production meters; etc",
+        "longLabel": "Gas, liquid and electricity supply or production meters; etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1381",
+        "shortLabel": "Counting devices non-electrical; stroboscopes",
+        "longLabel": "Counting devices non-electrical; stroboscopes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1382",
+        "shortLabel": "Surveying, navigational, compasses, etc, instruments, nonelectrical",
+        "longLabel": "Surveying, navigational, compasses, etc, instruments, nonelectrical",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1383",
+        "shortLabel": "Drawing, marking-out and mathematical calculating instruments, etc",
+        "longLabel": "Drawing, marking-out and mathematical calculating instruments, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1384",
+        "shortLabel": "Gas, liquid control instruments and apparatus, non-electrical",
+        "longLabel": "Gas, liquid control instruments and apparatus, non-electrical",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1385",
+        "shortLabel": "Nonmechanical or electrical instruments for physical, etc, analysis",
+        "longLabel": "Nonmechanical or electrical instruments for physical, etc, analysis",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1386",
+        "shortLabel": "Measuring, controlling and scientific instruments, nes",
+        "longLabel": "Measuring, controlling and scientific instruments, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1387",
+        "shortLabel": "Electrical measuring, controlling, etc, instruments, apparatus, nes",
+        "longLabel": "Electrical measuring, controlling, etc, instruments, apparatus, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1388",
+        "shortLabel": "Parts, nes, and accessories of headings 873, 8743, 87454 or 8748",
+        "longLabel": "Parts, nes, and accessories of headings 873, 8743, 87454 or 8748",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1389",
+        "shortLabel": "Photographic cameras, flashlight apparatus, parts, accessories, nes",
+        "longLabel": "Photographic cameras, flashlight apparatus, parts, accessories, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1390",
+        "shortLabel": "Cinematographic cameras, projectors, etc, parts, accessories, nes",
+        "longLabel": "Cinematographic cameras, projectors, etc, parts, accessories, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1391",
+        "shortLabel": "Photographic and cinematographic apparatus and equipment, nes",
+        "longLabel": "Photographic and cinematographic apparatus and equipment, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1392",
+        "shortLabel": "Chemical products and flashlight materials for use in photografy",
+        "longLabel": "Chemical products and flashlight materials for use in photografy",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1393",
+        "shortLabel": "Photographic film, plates and paper (other than cinematograph film)",
+        "longLabel": "Photographic film, plates and paper (other than cinematograph film)",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1394",
+        "shortLabel": "Cinematograph film, exposed and developed",
+        "longLabel": "Cinematograph film, exposed and developed",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1395",
+        "shortLabel": "Lenses and other optical elements of any material",
+        "longLabel": "Lenses and other optical elements of any material",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1396",
+        "shortLabel": "Spectacles and spectacle frames",
+        "longLabel": "Spectacles and spectacle frames",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1397",
+        "shortLabel": "Watches, watch movements and case",
+        "longLabel": "Watches, watch movements and case",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1398",
+        "shortLabel": "Clocks, clock movements and parts",
+        "longLabel": "Clocks, clock movements and parts",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1399",
+        "shortLabel": "Printed books, pamphlets, maps and globes",
+        "longLabel": "Printed books, pamphlets, maps and globes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1400",
+        "shortLabel": "Newspapers, journals and periodicals",
+        "longLabel": "Newspapers, journals and periodicals",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1401",
+        "shortLabel": "Picture postcards, decalcomanias, etc, printed",
+        "longLabel": "Picture postcards, decalcomanias, etc, printed",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1402",
+        "shortLabel": "Printed matter, nes",
+        "longLabel": "Printed matter, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1403",
+        "shortLabel": "Plastic packing containers, lids, stoppers and other closures",
+        "longLabel": "Plastic packing containers, lids, stoppers and other closures",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1404",
+        "shortLabel": "Plastic sanitary and toilet articles",
+        "longLabel": "Plastic sanitary and toilet articles",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1405",
+        "shortLabel": "Personal adornments and ornaments articles of plastic",
+        "longLabel": "Personal adornments and ornaments articles of plastic",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1406",
+        "shortLabel": "Articles of electric lighting of plastic",
+        "longLabel": "Articles of electric lighting of plastic",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1407",
+        "shortLabel": "Miscellaneous articles of plastic",
+        "longLabel": "Miscellaneous articles of plastic",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1408",
+        "shortLabel": "Baby carriages and parts thereof, nes",
+        "longLabel": "Baby carriages and parts thereof, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1409",
+        "shortLabel": "Children's toys, indoor games, etc",
+        "longLabel": "Children's toys, indoor games, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1410",
+        "shortLabel": "Non-military arms and ammunition therefor",
+        "longLabel": "Non-military arms and ammunition therefor",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1411",
+        "shortLabel": "Other sporting goods and fairground amusements, etc",
+        "longLabel": "Other sporting goods and fairground amusements, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1412",
+        "shortLabel": "Office and stationary supplies, of base metal",
+        "longLabel": "Office and stationary supplies, of base metal",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1413",
+        "shortLabel": "Pens, pencils and, fountain pens",
+        "longLabel": "Pens, pencils and, fountain pens",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1414",
+        "shortLabel": "Other office and stationary supplies",
+        "longLabel": "Other office and stationary supplies",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1415",
+        "shortLabel": "Works of art, collectors' pieces and antiques",
+        "longLabel": "Works of art, collectors' pieces and antiques",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1416",
+        "shortLabel": "Imitation jewellery",
+        "longLabel": "Imitation jewellery",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1417",
+        "shortLabel": "Precious jewellery, goldsmiths' or silversmiths' wares",
+        "longLabel": "Precious jewellery, goldsmiths' or silversmiths' wares",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1418",
+        "shortLabel": "Other articles of precious metals or rolled precious metals, nes",
+        "longLabel": "Other articles of precious metals or rolled precious metals, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1419",
+        "shortLabel": "Pianos, other string musical instruments",
+        "longLabel": "Pianos, other string musical instruments",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1420",
+        "shortLabel": "Musical instruments, nes",
+        "longLabel": "Musical instruments, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1421",
+        "shortLabel": "Sound recording tape, discs",
+        "longLabel": "Sound recording tape, discs",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1422",
+        "shortLabel": "Parts, nes of and accessories for musical instruments; metronomes",
+        "longLabel": "Parts, nes of and accessories for musical instruments; metronomes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1423",
+        "shortLabel": "Articles and manufacture of carving, moulding materials, nes",
+        "longLabel": "Articles and manufacture of carving, moulding materials, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1424",
+        "shortLabel": "Candles, matches, combustible products, etc",
+        "longLabel": "Candles, matches, combustible products, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1425",
+        "shortLabel": "Umbrellas, canes and similar articles and parts thereof",
+        "longLabel": "Umbrellas, canes and similar articles and parts thereof",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1426",
+        "shortLabel": "Orthopaedic appliances, hearing aids, artificial parts of the body",
+        "longLabel": "Orthopaedic appliances, hearing aids, artificial parts of the body",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1427",
+        "shortLabel": "Basketwork, wickerwork; brooms, paint rollers, etc",
+        "longLabel": "Basketwork, wickerwork; brooms, paint rollers, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1428",
+        "shortLabel": "Small-wares and toilet articles, nes; sieves; tailors' dummies, etc",
+        "longLabel": "Small-wares and toilet articles, nes; sieves; tailors' dummies, etc",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1429",
+        "shortLabel": "Manufactured goods, nes",
+        "longLabel": "Manufactured goods, nes",
+        "color": "#00A6AA"
+    },
+    {
+        "id": "1430",
+        "shortLabel": "Postal packages not classified according to kind",
+        "longLabel": "Postal packages not classified according to kind",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1431",
+        "shortLabel": "Special transactions, commodity not classified according to class",
+        "longLabel": "Special transactions, commodity not classified according to class",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1432",
+        "shortLabel": "Animals, live, nes, (including zoo animals, pets, insects, etc)",
+        "longLabel": "Animals, live, nes, (including zoo animals, pets, insects, etc)",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1433",
+        "shortLabel": "Armoured fighting vehicles, war firearms, ammunition, parts, nes",
+        "longLabel": "Armoured fighting vehicles, war firearms, ammunition, parts, nes",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1434",
+        "shortLabel": "Coin (other than gold coin), not being legal tender",
+        "longLabel": "Coin (other than gold coin), not being legal tender",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1435",
+        "shortLabel": "Gold, non-monetary (excluding gold ores and concentrates)",
+        "longLabel": "Gold, non-monetary (excluding gold ores and concentrates)",
+        "color": "#2a607c"
+    },
+    {
+        "id": "1436",
+        "shortLabel": "Unknown",
+        "longLabel": "Unknown",
+        "color": "#2a607c"
+    }
+]

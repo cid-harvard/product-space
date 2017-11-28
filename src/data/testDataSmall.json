@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A",
+    "values": [58, 808],
+    "active": true
+  },
+  {
+    "id": "B",
+    "values": [2, 618],
+    "active": false
+  },
+  {
+    "id": "C",
+    "values": [64, 170],
+    "active": true
+  },
+  {
+    "id": "D",
+    "values": [18, 460],
+    "active": true
+  },
+  {
+    "id": "E",
+    "values": [16, 990],
+    "active": false
+  },
+  {
+    "id": "F",
+    "values": [100, 932],
+    "active": true
+  },
+  {
+    "id": "G",
+    "values": [50, 424],
+    "active": true
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "A", "x": 0, "y": 4
+    },
+    {
+      "id": "B", "x": 3, "y": 4
+    },
+    {
+      "id": "C", "x": 3, "y": 9
+    },
+    {
+      "id": "D", "x": 4, "y": 0
+    },
+    {
+      "id": "E", "x": 5, "y": 7
+    },
+    {
+      "id": "F", "x": 7, "y": 4
+    },
+    {
+      "id": "G", "x": 10, "y": 9
+    }
+  ],
+  "edges": [
+    {
+      "source": "A", "target": "B"
+    },
+    {
+      "source": "B", "target": "D"
+    },
+    {
+      "source": "B", "target": "E"
+    },
+    {
+      "source": "E", "target": "C"
+    },
+    {
+      "source": "E", "target": "F"
+    },
+    {
+      "source": "E", "target": "G"
+    }
+  ]
+}
