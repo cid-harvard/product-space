@@ -45,6 +45,9 @@ module.exports = {
         description: 'Run stylelint on TSX files',
       },
     },
+    prettier: {
+      markdown: 'prettier *.md --write'
+    }
 
   },
 };
