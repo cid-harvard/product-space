@@ -1,3 +1,7 @@
+A customizable and interactive product space.
+
+[![npm (scoped)](https://img.shields.io/npm/v/@cid-harvard/product-space.svg)](https://www.npmjs.com/package/@cid-harvard/product-space)
+
 ## Installation
 
 To use this tool, follow these steps:
