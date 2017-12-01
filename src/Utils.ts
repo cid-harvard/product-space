@@ -21,6 +21,12 @@ export interface IMetadatum {
   color: string;
 }
 
+export interface IRawDatum {
+  id: string;
+  values?: number | number[];
+  active: number | boolean;
+}
+
 export interface IDatum {
   id: string;
   values: number[];

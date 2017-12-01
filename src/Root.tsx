@@ -32,6 +32,7 @@ import {
   IDatum,
   ILayoutData,
   IMetadatum,
+  IRawDatum,
 } from './Utils';
 
 const hsLayout = require('./data/layout_HS.json');
@@ -43,6 +44,34 @@ const hsLayoutName = 'Standard HS layout';
 const sitcLayoutName = 'Standard SITC layout';
 const hsMetadataName = 'Standard HS metadata';
 const sitcMetadataName = 'Standard SITC metadata';
+
+const parseRawData = (rawData: IRawDatum[]): IDatum[] => {
+  return rawData.map(({id, values, active}) => {
+    let parsedValues: number[];
+    if (values === undefined) {
+      parsedValues = [];
+    } else if (typeof values === 'number') {
+      parsedValues = [values];
+    } else {
+      parsedValues = values;
+    }
+
+    let parsedActive: boolean;
+    if (typeof active === 'boolean') {
+      parsedActive = active;
+    } else {
+      parsedActive = !!active;
+    }
+
+    const output: IDatum = {
+      id,
+      values: parsedValues,
+      active: parsedActive,
+    };
+
+    return output;
+  });
+};
 
 const selectedNodeSizingSentinelValue = -1;
 
@@ -160,13 +189,17 @@ class RootComponent extends React.Component<IProps, IState> {
   )
 
   private onMainDataDrop = (content: string, fileName: string) => this.setState(
-    (prevState: IState): IState => ({
-      ...prevState,
-      mainData: {
-        status: DataStatus.ValidInput,
-        value: {isFromFile: true, data: JSON.parse(content), fileName},
-      },
-    }),
+    (prevState: IState): IState => {
+      const rawData: IRawDatum[] = JSON.parse(content);
+      const parsedData = parseRawData(rawData);
+      return {
+        ...prevState,
+        mainData: {
+          status: DataStatus.ValidInput,
+          value: {isFromFile: true, data: parsedData, fileName},
+        },
+      };
+    },
   )
 
   private updateNumValuesPerNode = (numValuesPerNode: number) => this.setState((prevState: IState) => {
