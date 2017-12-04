@@ -142,7 +142,7 @@ const merge = (
   const relatedNodesMap = getRelatedNodesMap(edges);
   const nodesWithSizeMap = keyByMap<string, INodeWithSize>(({id}) => id)(nodesWithSize);
 
-  const finalNodes: IProcessedNode[] = nodesWithSize.map(({detailTooltipInfo, id, ...rest}) => {
+  const unsortedNodes: IProcessedNode[] = nodesWithSize.map(({detailTooltipInfo, id, ...rest}) => {
     const retrievedConnections = relatedNodesMap.get(id);
     let connections: INodeBase[];
     if (retrievedConnections === undefined) {
@@ -156,6 +156,13 @@ const merge = (
     };
     return output;
   });
+
+  let finalNodes: IProcessedNode[];
+  if (selectedNodeSizing === undefined) {
+    finalNodes = unsortedNodes;
+  } else {
+    finalNodes = _.sortBy(unsortedNodes, ({radius}) => - radius);
+  }
 
   const nodesMap: Map<string, IProcessedNode> = keyByMap<string, IProcessedNode>(({id}) => id)(finalNodes);
 
