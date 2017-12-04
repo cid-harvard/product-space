@@ -46,8 +46,8 @@ module.exports = {
       },
     },
     prettier: {
-      markdown: 'prettier *.md --write'
-    }
+      markdown: 'prettier *.md --write',
+    },
 
   },
 };
