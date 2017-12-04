@@ -87,7 +87,7 @@ const merge = (
                     .range([0, width]);
   const yPositionScale = scaleLinear<number, number>()
                     .domain(widenYInterval(_.min(allY)!, _.max(allY)!))
-                    .range([height, 0]);
+                    .range([0, height]);
 
   const nodesWithMetadata: INodeWithMetadatum[] = nodes.map(({id, x, y}) => {
     const scaledX = xPositionScale(x);
