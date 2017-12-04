@@ -1,6 +1,6 @@
 {
   "name": "@cid-harvard/product-space",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "A customizable and interactive product space",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
