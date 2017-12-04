@@ -23,10 +23,6 @@ import {
   IProcessedNode,
 } from './Utils';
 
-const defaultNodeSize = 5;
-const minNodeSize = 5;
-const maxNodeSize = 50;
-
 interface INodeWithMetadatum {
   id: string;
   x: number;
@@ -75,6 +71,8 @@ const merge = (
     selectedNodeSizing: number | undefined,
     nodeSizingLabels: string[],
     numValuesPerNode: number,
+    maxNodeRadius: number,
+    minNodeRadius: number,
   ): IMergedData => {
 
   const metadataMap = keyByMap<string, IMetadatum>(({id}) => id)(metadata);
@@ -107,12 +105,12 @@ const merge = (
 
   let getSize: SizeGetter;
   if (selectedNodeSizing === undefined) {
-    getSize = () => defaultNodeSize;
+    getSize = () => minNodeRadius;
   } else {
     const valuesToDetermineSize = mainData.map(({values}) => values[selectedNodeSizing]);
     const nodeSizeScale = scaleLinear<number, number>()
                       .domain([_.min(valuesToDetermineSize)!, _.max(valuesToDetermineSize)!])
-                      .range([minNodeSize, maxNodeSize]);
+                      .range([minNodeRadius, maxNodeRadius]);
     getSize = (values: number[]) => nodeSizeScale(values[selectedNodeSizing]);
   }
 

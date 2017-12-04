@@ -21,6 +21,8 @@ interface IInput {
   width: number;
   height: number;
   nodeSizingLabels: string[];
+  maxNodeRadius: number;
+  minNodeRadius: number;
 }
 
 const process = (input: IInput): IMergeStatus => {
@@ -32,6 +34,7 @@ const process = (input: IInput): IMergeStatus => {
     numValuesPerNode,
     selectedNodeSizing,
     width, height, nodeSizingLabels,
+    maxNodeRadius, minNodeRadius,
   } = input;
   let result: IMergeStatus;
   if (layoutDataStatus.status === DataStatus.NoInput ||
@@ -67,6 +70,7 @@ const process = (input: IInput): IMergeStatus => {
         const merged = merge(
           layoutData.data, metadata.data, mainData.data,
           width, height, selectedNodeSizing, nodeSizingLabels, numValuesPerNode,
+          maxNodeRadius, minNodeRadius,
         );
         result = {
           status: MergeStatus.Success,

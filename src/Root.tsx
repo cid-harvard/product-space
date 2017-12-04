@@ -28,6 +28,8 @@ import {
 } from './RootGrid';
 import {
   DataStatus,
+  defaultMaxNodeRadius,
+  defaultMinNodeRadius,
   IDataStatus,
   IDatum,
   ILayoutData,
@@ -98,6 +100,9 @@ interface IState {
   selectedNodeSizing: number | undefined;
   nodeSizingLabels: string[];
 
+  maxNodeRadius: number;
+  minNodeRadius: number;
+
   width: number | undefined;
   height: number | undefined;
   top: number | undefined;
@@ -120,6 +125,8 @@ class RootComponent extends React.Component<IProps, IState> {
       height: undefined,
       top: undefined,
       left: undefined,
+      maxNodeRadius: defaultMaxNodeRadius,
+      minNodeRadius: defaultMinNodeRadius,
     };
   }
 
@@ -252,6 +259,42 @@ class RootComponent extends React.Component<IProps, IState> {
       selectedNodeSizing: newSelectedNodeSizing,
     };
   })
+  private updateMinNodeRadius = (input: number) => this.setState(
+    (prevState: IState): IState => {
+      const prevMaxNodeRadius = prevState.maxNodeRadius;
+
+      let newMinNodeRadius: number;
+      if (Number.isNaN(input)) {
+        // Possible to have `NaN` if the number input field is empty:
+        newMinNodeRadius = (defaultMinNodeRadius < prevMaxNodeRadius) ? defaultMinNodeRadius : prevMaxNodeRadius;
+      } else {
+        newMinNodeRadius = (input < prevMaxNodeRadius) ? input : prevMaxNodeRadius;
+      }
+
+      return {
+        ...prevState,
+        minNodeRadius: newMinNodeRadius,
+      };
+    },
+  )
+
+  private updateMaxNodeRadius = (input: number) => this.setState(
+    (prevState: IState): IState => {
+
+      const prevMinNodeRadius = prevState.minNodeRadius;
+
+      let newMaxNodeRadius: number;
+      if (Number.isNaN(input)) {
+        newMaxNodeRadius = (defaultMaxNodeRadius > prevMinNodeRadius) ? defaultMaxNodeRadius : prevMinNodeRadius;
+      } else {
+        newMaxNodeRadius = (input > prevMinNodeRadius) ? input : prevMinNodeRadius;
+      }
+      return {
+        ...prevState,
+        maxNodeRadius: newMaxNodeRadius,
+      };
+    },
+  )
 
   private chartRootEl: HTMLElement | null;
   private saveChartRootEl = (el: HTMLElement | null) => this.chartRootEl = el;
@@ -264,6 +307,7 @@ class RootComponent extends React.Component<IProps, IState> {
       layoutData, metadata, mainData, numValuesPerNode,
       selectedNodeSizing, nodeSizingLabels,
       width, height, top, left,
+      maxNodeRadius, minNodeRadius,
     } = this.state;
 
     let nodes: IProcessedNode[];
@@ -283,6 +327,7 @@ class RootComponent extends React.Component<IProps, IState> {
         numValuesPerNode, selectedNodeSizing,
         width, height,
         nodeSizingLabels,
+        maxNodeRadius, minNodeRadius,
       });
 
       if (merged.status === MergeStatus.Success) {
@@ -353,6 +398,10 @@ class RootComponent extends React.Component<IProps, IState> {
             numValuesPerNode={numValuesPerNode}
             nodeSizingLabels={nodeSizingLabels}
             updateLabel={this.updateValueLabel}
+            minNodeRadius={minNodeRadius}
+            maxNodeRadius={maxNodeRadius}
+            updateMinNodeRadius={this.updateMinNodeRadius}
+            updateMaxNodeRadius={this.updateMaxNodeRadius}
             />
         </Root>
       </DragDropContextProvider>

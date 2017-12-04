@@ -41,6 +41,15 @@ const ValuesConfigContainer = styled.div`
   align-items: center;
 `;
 
+const NumberInput = styled.input`
+  width: 5rem;
+  margin-right: 1rem;
+`;
+
+const Label = styled.label`
+  margin-right: 1rem;
+`;
+
 function convertToDropTargetStatus<T>(input: IDataStatus<T>): DropTargetStatus {
   let output: DropTargetStatus;
   switch (input.status) {
@@ -76,9 +85,13 @@ interface IProps {
   metadata: IDataStatus<IMetadatum[]>;
   mainData: IDataStatus<IDatum[]>;
   numValuesPerNode: number;
+  maxNodeRadius: number;
+  minNodeRadius: number;
   updateNumValuesPerNode: (value: number) => void;
   nodeSizingLabels: string[];
   updateLabel: (label: string, index: number) => void;
+  updateMinNodeRadius: (value: number) => void;
+  updateMaxNodeRadius: (value: number) => void;
 }
 
 interface IState {
@@ -102,12 +115,23 @@ export default class extends React.Component<IProps, IState> {
     (prevState: IState) => ({...prevState, visible: !prevState.visible}),
   )
 
+  private onMaxNodeRadiusChange = (event: React.FormEvent<HTMLInputElement>) => {
+    const value = parseInt(event.currentTarget.value, 10);
+    this.props.updateMaxNodeRadius(value);
+  }
+
+  private onMinNodeRadiusChange = (event: React.FormEvent<HTMLInputElement>) => {
+    const value = parseInt(event.currentTarget.value, 10);
+    this.props.updateMinNodeRadius(value);
+  }
+
   render() {
     const {
       onLayoutDataDrop, onMetadataDrop, onMainDataDrop,
       layoutData, metadata, mainData,
       numValuesPerNode, nodeSizingLabels, updateLabel,
       layoutBuiltInSources, metadataBuiltInSources,
+      maxNodeRadius, minNodeRadius,
     } = this.props;
     const {visible} = this.state;
 
@@ -125,6 +149,8 @@ export default class extends React.Component<IProps, IState> {
     let panel: JSX.Element | null;
     if (visible === true) {
       const dropdownId = 'num-values-per-node-dropdown';
+      const maxNodeRadiusId = 'max-node-radius';
+      const minNodeRadiusId = 'min-node-radius';
       panel = (
       <DataInputContainer key='data-input'>
         <DataInput
@@ -149,7 +175,15 @@ export default class extends React.Component<IProps, IState> {
           />
 
         <ValuesConfigContainer>
-          <label htmlFor={dropdownId}>Select number of values per node and their corresponding names: </label>
+          <Label htmlFor={minNodeRadiusId}>Min radius:</Label>
+          <NumberInput id={minNodeRadiusId} type='number'
+            defaultValue={minNodeRadius.toString()} onBlur={this.onMinNodeRadiusChange}/>
+
+          <Label htmlFor={maxNodeRadiusId}>Max radius:</Label>
+          <NumberInput id={maxNodeRadiusId} type='number'
+            defaultValue={maxNodeRadius.toString()} onBlur={this.onMaxNodeRadiusChange}/>
+
+          <Label htmlFor={dropdownId}>Select number of values per node and their corresponding names: </Label>
           <select value={numValuesPerNode} onChange={this.onSelectChange} id={dropdownId}>
             <option value={0}>0</option>
             <option value={1}>1</option>

@@ -122,3 +122,6 @@ export const svgBackgroundColor = 'rgb(245,245,245)';
 export const controlButtonZoomFactor = 1.1;
 
 export const secondsPerFrame = 16; // 60fps
+
+export const defaultMaxNodeRadius = 20;
+export const defaultMinNodeRadius = 5;
